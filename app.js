@@ -11,12 +11,15 @@ app.set('views', 'views')
 
 import adminRoutes from './routes/admin.js'
 import shopRoutes from './routes/shop.js'
+//import mintaRoutes from './routes/minta.js'
 
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(express.static(path.join(__dirname, 'public')))
 
 app.use('/admin', adminRoutes)
 app.use(shopRoutes)
+
+app.get('/minta', (req, res) => { res.render('minta', { pageTitle: 'Minta Page' }); });
 
 app.use((req, res, next) => {
     res.status(404).render('404', {pageTitle: 'Page Not Found', path: ''})
