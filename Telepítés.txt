@@ -5,7 +5,6 @@ valamint megint új C:\Program Files\nodejs\npm, ha az npm továbbra sem működ
 és ezt a parancsot kell lefutattni: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 2. lépés Terminálon npm init -y, npm i express, npm i nodemon --save-dev
 3. lépés Terminálon npm install express body-parser ejs
-4. lépés terminálon git pull origin main
 Commitolás:
 1. git add szerkesztett mappa/fájl például: git add Telepítés.txt vagy git add views/
 2. git commit -m "commit szövege"
@@ -14,3 +13,6 @@ Projekt leszedése:
 1.lépés ctrl+shift+P beírni Git:Clone rákattintani
 2.lépés githubról codera kattintva kimásolni az Url-t majd beilleszteni az előbbi terminálba
 3.lépés kiválasztani a mappát ahová klónozza, rányomni hogy nyissa meg a clone-t
+
+Egyéb észrevételek:
+Ha van unpulled commit, akkor lekell commitolni a jelenleg haladást és úgy lehet pullolni
