@@ -6,6 +6,7 @@ valamint megint új C:\Program Files\nodejs\npm, ha az npm továbbra sem működ
 2. lépés Terminálon npm init -y, npm i express, npm i nodemon --save-dev
 3. lépés Terminálon npm install express body-parser ejs
 Commitolás:
+0. lépés szerkeszteni/létrehozni fájlokat, majd menteni
 1. git add szerkesztett mappa/fájl például: git add Telepítés.txt vagy git add views/
 2. git commit -m "commit szövege"
 3. git push origin main
@@ -16,3 +17,4 @@ Projekt leszedése:
 
 Egyéb észrevételek:
 Ha van unpulled commit, akkor lekell commitolni a jelenlegi haladást és úgy lehet pullolni
+Commitnál pontos elnevezést kell használni, mert különben nem érzékel változást.
