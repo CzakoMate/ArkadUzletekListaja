@@ -1,8 +1,8 @@
-import path from 'path';
-import express from 'express';
-import bodyParser from 'body-parser';
-import fs from 'fs';
-import { fileURLToPath } from 'url';
+import path from "path";
+import express from "express";
+import bodyParser from "body-parser";
+import fs from "fs";
+import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -10,27 +10,233 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const PORT = 3000;
 
-app.set('view engine', 'ejs');
-app.set('views', 'views');
+app.set("view engine", "ejs");
+app.set("views", path.join(__dirname, "views"));
 
 app.use(bodyParser.urlencoded({ extended: false }));
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, "public")));
 
 // Load the JSON data
-const uzletekData = JSON.parse(fs.readFileSync(path.join(__dirname, './public/data', 'Uzletek.json'), 'utf-8'));
+const uzletekData = JSON.parse(
+  fs.readFileSync(
+    path.join(__dirname, "./public/data", "Uzletek.json"),
+    "utf-8"
+  )
+);
 
-// Define the /minta route to list all items
-app.get('/', (req, res, next) => {
-  res.render('Fooldal', { pageTitle: 'Főoldal', uzletek: uzletekData });
+// Define a route for each element
+app.get("/Ametiszt-Ruhatisztító", (req, res, next) => {
+  res.render("ametiszt", { pageTitle: "Ametiszt Ruhatisztító" });
+});
+app.get("/Amnesia", (req, res, next) => {
+  res.render("Amnesia", { pageTitle: "Amnesia" });
+});
+app.get("/Apacs-Ezüst-Ékszer", (req, res, next) => {
+  res.render("apacs", { pageTitle: "Apacs Ezüst Ékszer" });
 });
 
-// Define a route for "Ametiszt Ruhatisztító"
-app.get('/Ametiszt-Ruhatisztító', (req, res, next) => {
-  res.render('ametiszt', { pageTitle: 'Ametiszt Ruhatisztító' });
+app.get('/Balance', (req, res, next) => {
+  res.render('balance', { pageTitle: 'Balance' });
 });
+
+app.get('/Barber-Shop-Budapest', (req, res, next) => {
+  res.render('barber', { pageTitle: 'Barber Shop Budapest' });
+});
+
+app.get('/Benu-Gyógyszertár', (req, res, next) => {
+  res.render('benu', { pageTitle: 'Benu Gyógyszertár' });
+});
+
+app.get('/Bershka', (req, res, next) => {
+  res.render('bershka', { pageTitle: 'Bershka' });
+});
+
+app.get('/Bijou-Brigitte', (req, res, next) => {
+  res.render('bijou', { pageTitle: 'Bijou Brigitte' });
+});
+
+app.get('/Bio-Barát-Biobolt', (req, res, next) => {
+  res.render('bio', { pageTitle: 'Bio-Barát Biobolt' });
+});
+
+app.get('/BioHair-Szalon', (req, res, next) => {
+  res.render('biohair', { pageTitle: 'BioHair Szalon' });
+});
+
+app.get('/BioTechUSA', (req, res, next) => {
+  res.render('biotech', { pageTitle: 'BioTechUSA' });
+});
+
+app.get('/Bonanza-Jeans', (req, res, next) => {
+  res.render('bonanza', { pageTitle: 'Bonanza Jeans' });
+});
+
+app.get('/budmil-Store', (req, res, next) => {
+  res.render('budmil', { pageTitle: 'budmil Store' });
+});
+
+app.get('/BUZZ', (req, res, next) => {
+  res.render('buzz', { pageTitle: 'BUZZ' });
+});
+
+app.get('/C-A', (req, res, next) => {
+  res.render('ca', { pageTitle: 'C&A' });
+});
+
+app.get('/Calzedonia', (req, res, next) => {
+  res.render('calzedonia', { pageTitle: 'Calzedonia' });
+});
+
+app.get('/camel-active', (req, res, next) => {
+  res.render('camel', { pageTitle: 'camel active' });
+});
+
+app.get('/CCC', (req, res, next) => {
+  res.render('ccc', { pageTitle: 'CCC' });
+});
+
+app.get('/Claire-s', (req, res, next) => {
+  res.render('claires', { pageTitle: 'Claire\'s' });
+});
+
+app.get('/CROPP', (req, res, next) => {
+  res.render('cropp', { pageTitle: 'CROPP' });
+});
+
+app.get('/Deichmann', (req, res, next) => {
+  res.render('deichmann', { pageTitle: 'Deichmann' });
+});
+
+app.get('/Devergo-Friends', (req, res, next) => {
+  res.render('devergo', { pageTitle: 'Devergo & Friends' });
+});
+
+app.get('/Diamond-Óra-ékszer', (req, res, next) => {
+  res.render('diamond', { pageTitle: 'Diamond Óra-ékszer' });
+});
+
+app.get('/Diamore-Ékszer-Óra', (req, res, next) => {
+  res.render('diamore', { pageTitle: 'Diamore Ékszer-Óra' });
+});
+
+app.get('/dm', (req, res, next) => {
+  res.render('dm', { pageTitle: 'dm' });
+});
+
+app.get('/Dockyard', (req, res, next) => {
+  res.render('dockyard', { pageTitle: 'Dockyard' });
+});
+
+app.get('/Dorko', (req, res, next) => {
+  res.render('dorko', { pageTitle: 'Dorko' });
+});
+
+app.get('/Douglas-Parfüméria', (req, res, next) => {
+  res.render('douglas', { pageTitle: 'Douglas Parfüméria' });
+});
+
+app.get('/ÉLETÍZEK-Finomságbolt-és-Kávézó', (req, res, next) => {
+  res.render('eletizek', { pageTitle: 'ÉLETÍZEK Finomságbolt és Kávézó' });
+});
+
+app.get('/Exclusive-Change', (req, res, next) => {
+  res.render('exclusive', { pageTitle: 'Exclusive Change' });
+});
+
+app.get('/Flying-Tiger-Copenhagen', (req, res, next) => {
+  res.render('flyingtiger', { pageTitle: 'Flying Tiger Copenhagen' });
+});
+
+app.get('/GAS', (req, res, next) => {
+  res.render('gas', { pageTitle: 'GAS' });
+});
+
+app.get('/Guess', (req, res, next) => {
+  res.render('guess', { pageTitle: 'Guess' });
+});
+
+app.get('/H-M', (req, res, next) => {
+  res.render('hm', { pageTitle: 'H&M' });
+});
+
+app.get('/Heavy-Tools', (req, res, next) => {
+  res.render('heavytools', { pageTitle: 'Heavy Tools' });
+});
+
+app.get('/Herbária', (req, res, next) => {
+  res.render('herbaria', { pageTitle: 'Herbária' });
+});
+
+app.get('/Hervis', (req, res, next) => {
+  res.render('hervis', { pageTitle: 'Hervis' });
+});
+
+app.get('/House', (req, res, next) => {
+  res.render('house', { pageTitle: 'House' });
+});
+
+app.get('/Humanic', (req, res, next) => {
+  res.render('humanic', { pageTitle: 'Humanic' });
+});
+
+app.get('/Időzóna-Óramánia-Szerviz', (req, res, next) => {
+  res.render('idozona', { pageTitle: 'Időzóna Óramánia Szerviz' });
+});
+
+app.get('/Időzóna-Óraszalon', (req, res, next) => {
+  res.render('idozonaszalon', { pageTitle: 'Időzóna Óraszalon' });
+});
+
+app.get('/Intimissimi', (req, res, next) => {
+  res.render('intimissimi', { pageTitle: 'Intimissimi' });
+});
+
+app.get('/iSTYLE', (req, res, next) => {
+  res.render('istyle', { pageTitle: 'iSTYLE' });
+});
+
+app.get('/iWash-autókozmetika', (req, res, next) => {
+  res.render('iwash', { pageTitle: 'iWash autókozmetika' });
+});
+
+app.get('/Jack-Jones', (req, res, next) => {
+  res.render('jackjones', { pageTitle: 'Jack & Jones' });
+});
+
+app.get('/Libri', (req, res, next) => {
+  res.render('libri', { pageTitle: 'Libri' });
+});
+
+app.get('/Liliput-Játékvilág', (req, res, next) => {
+  res.render('liliput', { pageTitle: 'Liliput Játékvilág' });
+});
+
+app.get('/Lottózó', (req, res, next) => {
+  res.render('lottozo', { pageTitle: 'Lottózó' });
+});
+
+app.get('/Mayo-Chix', (req, res, next) => {
+  res.render('mayo', { pageTitle: 'Mayo Chix' });
+});
+
+app.get('/Media-Markt', (req, res, next) => {
+  res.render('media', { pageTitle: 'Media Markt' });
+});
+
+
+
+// Define the / route to list all items
+app.get("/", (req, res, next) => {
+  res.render("Fooldal", { pageTitle: "Főoldal", uzletek: uzletekData });
+});
+
+// Middleware to serve static files
+app.use(express.static(path.join(__dirname, "public")));
 
 app.use((req, res, next) => {
-  res.status(404).render('404', { pageTitle: 'Page Not Found', path: '' });
+  res.status(404).render("404", { pageTitle: "Page Not Found", path: "" });
 });
 
-app.listen(PORT, () => console.log(`Server listens on http://localhost:${PORT}`));
+app.listen(PORT, () =>
+  console.log(`Server listens on http://localhost:${PORT}`)
+);
