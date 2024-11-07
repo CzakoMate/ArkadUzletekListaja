@@ -1,28 +1,36 @@
-import path from 'path'
-import express from 'express'
-import bodyParser from 'body-parser'
-import __dirname from './util/rootpath.js'
+import path from 'path';
+import express from 'express';
+import bodyParser from 'body-parser';
+import fs from 'fs';
+import { fileURLToPath } from 'url';
 
-const app = express()
-const PORT = 3000
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-app.set('view engine', 'ejs')
-app.set('views', 'views')
+const app = express();
+const PORT = 3000;
 
-import adminRoutes from './routes/admin.js'
-import shopRoutes from './routes/shop.js'
-//import mintaRoutes from './routes/minta.js'
+app.set('view engine', 'ejs');
+app.set('views', 'views');
 
-app.use(bodyParser.urlencoded({ extended: false }))
-app.use(express.static(path.join(__dirname, 'public')))
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/admin', adminRoutes)
-app.use(shopRoutes)
+// Load the JSON data
+const uzletekData = JSON.parse(fs.readFileSync(path.join(__dirname, './public/data', 'Uzletek.json'), 'utf-8'));
 
-app.get('/minta', (req, res) => { res.render('minta', { pageTitle: 'Minta Page' }); });
+// Define the /minta route to list all items
+app.get('/', (req, res) => {
+  res.render('Fooldal', { pageTitle: 'Főoldal', uzletek: uzletekData });
+});
+
+// Define a route for "Ametiszt Ruhatisztító"
+app.get('/Ametiszt-Ruhatisztító', (req, res) => {
+  res.render('ametiszt', { pageTitle: 'Ametiszt Ruhatisztító' });
+});
 
 app.use((req, res, next) => {
-    res.status(404).render('404', {pageTitle: 'Page Not Found', path: ''})
-})
+  res.status(404).render('404', { pageTitle: 'Page Not Found', path: '' });
+});
 
-app.listen(PORT, () => console.log(`server listens on port http://localhost:${PORT}`))
+app.listen(PORT, () => console.log(`Server listens on http://localhost:${PORT}`));

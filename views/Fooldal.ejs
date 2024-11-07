@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= pageTitle %></title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to the Minta Page!</h1>
+  <table>
+    <tr>
+      <% uzletek.forEach((item, index) => { %>
+        <td><a href="/<%= item.replace(/\s+/g, '-') %>"><%= item %></a></td>
+        <% if ((index + 1) % 5 === 0) { %>
+          </tr><tr>
+        <% } %>
+      <% }); %>
+    </tr>
+  </table>
+</body>
+</html>
