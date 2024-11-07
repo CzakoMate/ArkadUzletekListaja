@@ -20,12 +20,12 @@ app.use(express.static(path.join(__dirname, 'public')));
 const uzletekData = JSON.parse(fs.readFileSync(path.join(__dirname, './public/data', 'Uzletek.json'), 'utf-8'));
 
 // Define the /minta route to list all items
-app.get('/', (req, res) => {
+app.get('/', (req, res, next) => {
   res.render('Fooldal', { pageTitle: 'Főoldal', uzletek: uzletekData });
 });
 
 // Define a route for "Ametiszt Ruhatisztító"
-app.get('/Ametiszt-Ruhatisztító', (req, res) => {
+app.get('/Ametiszt-Ruhatisztító', (req, res, next) => {
   res.render('ametiszt', { pageTitle: 'Ametiszt Ruhatisztító' });
 });
 

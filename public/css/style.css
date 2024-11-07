@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title><%= pageTitle %></title>
-  <link rel="stylesheet" href="./style.css">
-  <style>
-    /* Basic Reset */
+/* Basic Reset */
 * {
     margin: 0;
     padding: 0;
@@ -16,7 +8,7 @@
   /* Body Styling */
   body {
     font-family: Arial, sans-serif;
-    background-color: lightgrey ;/* Light grey background */
+    background-color: #f8f9fa; /* Light grey background */
     color: #333; /* Dark grey text */
     padding: 20px;
   }
@@ -77,19 +69,3 @@
     text-align: left;
     background-color: #f2f2f2;
   }
-  </style>
-</head>
-<body>
-  <h1>Árkád üzletek listája!</h1>
-  <table>
-    <tr>
-      <% uzletek.forEach((item, index) => { %>
-        <td><a href="/<%= item.replace(/\s+/g, '-') %>"><%= item %></a></td>
-        <% if ((index + 1) % 5 === 0) { %>
-          </tr><tr>
-        <% } %>
-      <% }); %>
-    </tr>
-  </table>
-</body>
-</html>
