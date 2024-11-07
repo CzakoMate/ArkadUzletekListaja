@@ -15,4 +15,4 @@ Projekt leszedése:
 3.lépés kiválasztani a mappát ahová klónozza, rányomni hogy nyissa meg a clone-t
 
 Egyéb észrevételek:
-Ha van unpulled commit, akkor lekell commitolni a jelenleg haladást és úgy lehet pullolni
+Ha van unpulled commit, akkor lekell commitolni a jelenlegi haladást és úgy lehet pullolni
