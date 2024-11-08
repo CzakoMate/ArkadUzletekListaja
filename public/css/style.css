@@ -1,79 +1,46 @@
-/* Basic Reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  /* Body Styling */
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f8f9fa; /* Light grey background */
-    color: #333; /* Dark grey text */
-    padding: 20px;
-  }
-  
-  /* Header Styling */
-  h1 {
-    font-size: 2em;
-    color: #007bff; /* Blue color */
-    margin-bottom: 20px;
-    text-align: center;
-  }
-  
-  /* Table Styling */
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-  }
-  
-  th, td {
-    border: 1px solid #ddd; /* Light grey border */
-    padding: 12px;
-    text-align: center;
-  }
-  
-  th {
-    background-color: #f2f2f2; /* Light grey background */
-  }
-  
-  td a {
-    color: #007bff; /* Blue color */
-    text-decoration: none;
-  }
-  
-  td a:hover {
-    text-decoration: underline;
-  }
-  
-  /* Footer Styling */
-  footer {
-    margin-top: 20px;
-    text-align: center;
-    font-size: 0.9em;
-    color: #666; /* Medium grey color */
-  }
-  
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-  }
-  th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #f2f2f2;
-  }
-  li {
-    display: list-item;
-    text-align: -webkit-match-parent;
-    unicode-bidi: isolate;
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d5d5d8;
+  color: #333;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  color: #007bff;
+  margin-bottom: 20px;
+}
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+  unicode-bidi: isolate;
 }
 ul {
   list-style-type: disc;
+}
+
+.ImgS{
+  width: 35%;
+}
+a, a:visited,a:hover{
+  text-decoration:none ;
+  font-weight: bold;
+  color:#007bff;
+}
+.main{
+  width: 40%;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 80%;
+  display: flex;
+  justify-content: center;
+}
+.container img {
+  max-width: 100%;
+  height: max-content;
+}
+.container p {
+  margin-left: 20px;
 }
