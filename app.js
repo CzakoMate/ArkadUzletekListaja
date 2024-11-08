@@ -79,7 +79,7 @@ app.get('/BUZZ', (req, res, next) => {
   res.render('buzz', { pageTitle: 'BUZZ' });
 });
 
-app.get('/C-A', (req, res, next) => {
+app.get('/C&A', (req, res, next) => {
   res.render('ca', { pageTitle: 'C&A' });
 });
 
@@ -95,7 +95,7 @@ app.get('/CCC', (req, res, next) => {
   res.render('ccc', { pageTitle: 'CCC' });
 });
 
-app.get('/Claire-s', (req, res, next) => {
+app.get(`/Claire's`, (req, res, next) => {
   res.render('claires', { pageTitle: 'Claire\'s' });
 });
 
@@ -107,7 +107,7 @@ app.get('/Deichmann', (req, res, next) => {
   res.render('deichmann', { pageTitle: 'Deichmann' });
 });
 
-app.get('/Devergo-Friends', (req, res, next) => {
+app.get('/Devergo-&-Friends', (req, res, next) => {
   res.render('devergo', { pageTitle: 'Devergo & Friends' });
 });
 
@@ -155,7 +155,7 @@ app.get('/Guess', (req, res, next) => {
   res.render('guess', { pageTitle: 'Guess' });
 });
 
-app.get('/H-M', (req, res, next) => {
+app.get('/H&M', (req, res, next) => {
   res.render('hm', { pageTitle: 'H&M' });
 });
 
@@ -199,7 +199,7 @@ app.get('/iWash-autókozmetika', (req, res, next) => {
   res.render('iwash', { pageTitle: 'iWash autókozmetika' });
 });
 
-app.get('/Jack-Jones', (req, res, next) => {
+app.get('/Jack-&-Jones', (req, res, next) => {
   res.render('jackjones', { pageTitle: 'Jack & Jones' });
 });
 
@@ -303,7 +303,7 @@ app.get('/Posta', (req, res, next) => {
   res.render('posta', { pageTitle: 'Posta' });
 });
 
-app.get('/Pull-Bear', (req, res, next) => {
+app.get('/Pull-&-Bear', (req, res, next) => {
   res.render('pullbear', { pageTitle: 'Pull & Bear' });
 });
 
@@ -324,7 +324,7 @@ app.get('/Samsung', (req, res, next) => {
 });
 
 app.get('/Samsung-Experience-Store', (req, res, next) => {
-  res.render('samsungexperience', { pageTitle: 'Samsung Experience Store' });
+  res.render('samsungstore', { pageTitle: 'Samsung Experience Store' });
 });
 
 app.get('/Saxoo-London', (req, res, next) => {
