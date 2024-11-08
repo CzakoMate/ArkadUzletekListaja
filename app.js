@@ -412,7 +412,7 @@ app.get('/Women-Secret', (req, res, next) => {
 });
 
 app.get('/Wrangler-Mustang', (req, res, next) => {
-  res.render('wranglermustang', { pageTitle: 'Wrangler Mustang' });
+  res.render('wrangler', { pageTitle: 'Wrangler Mustang' });
 });
 
 app.get('/Yettel', (req, res, next) => {
