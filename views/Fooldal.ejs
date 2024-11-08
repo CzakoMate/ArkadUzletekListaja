@@ -88,7 +88,8 @@
   <table>
     <tr>
       <% uzletek.forEach((item, index) => { %>
-        <td><a href="/<%= item.replace(/\s+/g, '-') %>"><%= item %></a></td>
+        
+        <td><a href="/<%= item .replace(/á/g, 'a') .replace(/é/g, 'e') .replace(/ő/g, 'o') .replace(/ú/g, 'u') .replace(/ö/g, 'o') .replace(/ü/g, 'u') .replace(/ű/g, 'u') .replace(/í/g, 'i').replace(/ó/g, 'o') .replace(/Á/g, 'A') .replace(/É/g, 'E') .replace(/Ő/g, 'O') .replace(/Ú/g, 'U') .replace(/Ö/g, 'O') .replace(/Ü/g, 'U') .replace(/Ű/g, 'U') .replace(/Í/g, 'I').replace(/Ó/g, 'O') .replace(/\s+/g, '-');  %>"><%= item %></a></td>
         <% if ((index + 1) % 5 === 0) { %>
           </tr><tr>
         <% } %>
@@ -96,4 +97,5 @@
     </tr>
   </table>
 </body>
+
 </html>

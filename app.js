@@ -25,13 +25,13 @@ const uzletekData = JSON.parse(
 );
 
 // Define a route for each element
-app.get("/Ametiszt-Ruhatisztító", (req, res, next) => {
+app.get("/Ametiszt-Ruhatisztito", (req, res, next) => {
   res.render("ametiszt", { pageTitle: "Ametiszt Ruhatisztító" });
 });
 app.get("/Amnesia", (req, res, next) => {
   res.render("Amnesia", { pageTitle: "Amnesia" });
 });
-app.get("/Apacs-Ezüst-Ékszer", (req, res, next) => {
+app.get("/Apacs-Ezust-Ekszer", (req, res, next) => {
   res.render("apacs", { pageTitle: "Apacs Ezüst Ékszer" });
 });
 
@@ -43,7 +43,7 @@ app.get('/Barber-Shop-Budapest', (req, res, next) => {
   res.render('barber', { pageTitle: 'Barber Shop Budapest' });
 });
 
-app.get('/Benu-Gyógyszertár', (req, res, next) => {
+app.get('/Benu-Gyogyszertar', (req, res, next) => {
   res.render('benu', { pageTitle: 'Benu Gyógyszertár' });
 });
 
@@ -55,7 +55,7 @@ app.get('/Bijou-Brigitte', (req, res, next) => {
   res.render('bijou', { pageTitle: 'Bijou Brigitte' });
 });
 
-app.get('/Bio-Barát-Biobolt', (req, res, next) => {
+app.get('/Bio-Barat-Biobolt', (req, res, next) => {
   res.render('bio', { pageTitle: 'Bio-Barát Biobolt' });
 });
 
@@ -111,11 +111,11 @@ app.get('/Devergo-&-Friends', (req, res, next) => {
   res.render('devergo', { pageTitle: 'Devergo & Friends' });
 });
 
-app.get('/Diamond-Óra-ékszer', (req, res, next) => {
+app.get('/Diamond-Ora-ekszer', (req, res, next) => {
   res.render('diamond', { pageTitle: 'Diamond Óra-ékszer' });
 });
 
-app.get('/Diamore-Ékszer-Óra', (req, res, next) => {
+app.get('/Diamore-Ekszer-Ora', (req, res, next) => {
   res.render('diamore', { pageTitle: 'Diamore Ékszer-Óra' });
 });
 
@@ -131,11 +131,11 @@ app.get('/Dorko', (req, res, next) => {
   res.render('dorko', { pageTitle: 'Dorko' });
 });
 
-app.get('/Douglas-Parfüméria', (req, res, next) => {
+app.get('/Douglas-Parfumeria', (req, res, next) => {
   res.render('douglas', { pageTitle: 'Douglas Parfüméria' });
 });
 
-app.get('/ÉLETÍZEK-Finomságbolt-és-Kávézó', (req, res, next) => {
+app.get('/ELETIZEK-Finomsagbolt-es-Kavezo', (req, res, next) => {
   res.render('eletizek', { pageTitle: 'ÉLETÍZEK Finomságbolt és Kávézó' });
 });
 
@@ -163,7 +163,7 @@ app.get('/Heavy-Tools', (req, res, next) => {
   res.render('heavytools', { pageTitle: 'Heavy Tools' });
 });
 
-app.get('/Herbária', (req, res, next) => {
+app.get('/Herbaria', (req, res, next) => {
   res.render('herbaria', { pageTitle: 'Herbária' });
 });
 
@@ -179,11 +179,11 @@ app.get('/Humanic', (req, res, next) => {
   res.render('humanic', { pageTitle: 'Humanic' });
 });
 
-app.get('/Időzóna-Óramánia-Szerviz', (req, res, next) => {
+app.get('/Idozona-Oramania-Szerviz', (req, res, next) => {
   res.render('idozona', { pageTitle: 'Időzóna Óramánia Szerviz' });
 });
 
-app.get('/Időzóna-Óraszalon', (req, res, next) => {
+app.get('/Idozona-Oraszalon', (req, res, next) => {
   res.render('idozonaszalon', { pageTitle: 'Időzóna Óraszalon' });
 });
 
@@ -195,7 +195,7 @@ app.get('/iSTYLE', (req, res, next) => {
   res.render('istyle', { pageTitle: 'iSTYLE' });
 });
 
-app.get('/iWash-autókozmetika', (req, res, next) => {
+app.get('/iWash-autokozmetika', (req, res, next) => {
   res.render('iwash', { pageTitle: 'iWash autókozmetika' });
 });
 
@@ -207,11 +207,11 @@ app.get('/Libri', (req, res, next) => {
   res.render('libri', { pageTitle: 'Libri' });
 });
 
-app.get('/Liliput-Játékvilág', (req, res, next) => {
+app.get('/Liliput-Jatekvilag', (req, res, next) => {
   res.render('liliput', { pageTitle: 'Liliput Játékvilág' });
 });
 
-app.get('/Lottózó', (req, res, next) => {
+app.get('/Lottozo', (req, res, next) => {
   res.render('lottozo', { pageTitle: 'Lottózó' });
 });
 
@@ -227,11 +227,11 @@ app.get('/Mister-Minit', (req, res, next) => {
   res.render('misterminit', { pageTitle: 'Mister Minit' });
 });
 
-app.get('/MK-Leder-Bőrdíszmű', (req, res, next) => {
+app.get('/MK-Leder-Bordiszmu', (req, res, next) => {
   res.render('mkleder', { pageTitle: 'MK Leder Bőrdíszmű' });
 });
 
-app.get('/Müller', (req, res, next) => {
+app.get('/Muller', (req, res, next) => {
   res.render('muller', { pageTitle: 'Müller' });
 });
 
@@ -251,7 +251,7 @@ app.get('/Office-Shoes', (req, res, next) => {
   res.render('officeshoes', { pageTitle: 'Office Shoes' });
 });
 
-app.get('/Ofotért', (req, res, next) => {
+app.get('/Ofotert', (req, res, next) => {
   res.render('ofotert', { pageTitle: 'Ofotért' });
 });
 
@@ -267,7 +267,7 @@ app.get('/OTP-Bank', (req, res, next) => {
   res.render('otp', { pageTitle: 'OTP Bank' });
 });
 
-app.get('/Pandora-Hivatalos-Viszonteladó', (req, res, next) => {
+app.get('/Pandora-Hivatalos-Viszontelado', (req, res, next) => {
   res.render('pandora', { pageTitle: 'Pandora Hivatalos Viszonteladó' });
 });
 
@@ -287,7 +287,7 @@ app.get('/Pepe-Jeans', (req, res, next) => {
   res.render('pepejeans', { pageTitle: 'Pepe Jeans' });
 });
 
-app.get('/Pirex-Papír', (req, res, next) => {
+app.get('/Pirex-Papir', (req, res, next) => {
   res.render('pirex', { pageTitle: 'Pirex Papír' });
 });
 
@@ -295,7 +295,7 @@ app.get('/Playersroom', (req, res, next) => {
   res.render('playersroom', { pageTitle: 'Playersroom' });
 });
 
-app.get('/Pólóüzem', (req, res, next) => {
+app.get('/Polouzem', (req, res, next) => {
   res.render('polouzem', { pageTitle: 'Pólóüzem' });
 });
 
@@ -379,7 +379,7 @@ app.get('/Tezenis', (req, res, next) => {
   res.render('tezenis', { pageTitle: 'Tezenis' });
 });
 
-app.get('/Thaiföld-Kincse-Masszázs-Szalon', (req, res, next) => {
+app.get('/Thaifold-Kincse-Masszazs-Szalon', (req, res, next) => {
   res.render('thaifold', { pageTitle: 'Thaiföld Kincse Masszázs Szalon' });
 });
 
@@ -403,11 +403,11 @@ app.get('/Vodafone', (req, res, next) => {
   res.render('vodafone', { pageTitle: 'Vodafone' });
 });
 
-app.get('/W-KRUK', (req, res, next) => {
+app.get('/W.KRUK', (req, res, next) => {
   res.render('wkruk', { pageTitle: 'W.KRUK' });
 });
 
-app.get('/Women-Secret', (req, res, next) => {
+app.get(`/Women'Secret`, (req, res, next) => {
   res.render('womensecret', { pageTitle: 'Women\'Secret' });
 });
 
@@ -427,7 +427,7 @@ app.get('/Zara', (req, res, next) => {
   res.render('zara', { pageTitle: 'Zara' });
 });
 
-app.get('/Zeniche-Parfüméria', (req, res, next) => {
+app.get('/Zeniche-Parfumeria', (req, res, next) => {
   res.render('zeniche', { pageTitle: 'Zeniche Parfüméria' });
 });
 
