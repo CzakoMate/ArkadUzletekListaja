@@ -223,6 +223,215 @@ app.get('/Media-Markt', (req, res, next) => {
   res.render('media', { pageTitle: 'Media Markt' });
 });
 
+app.get('/Mister-Minit', (req, res, next) => {
+  res.render('misterminit', { pageTitle: 'Mister Minit' });
+});
+
+app.get('/MK-Leder-Bőrdíszmű', (req, res, next) => {
+  res.render('mkleder', { pageTitle: 'MK Leder Bőrdíszmű' });
+});
+
+app.get('/Müller', (req, res, next) => {
+  res.render('muller', { pageTitle: 'Müller' });
+});
+
+app.get('/Muyoso', (req, res, next) => {
+  res.render('muyoso', { pageTitle: 'Muyoso' });
+});
+
+app.get('/Nail-Express', (req, res, next) => {
+  res.render('nailexpress', { pageTitle: 'Nail Express' });
+});
+
+app.get('/New-Yorker', (req, res, next) => {
+  res.render('newyorker', { pageTitle: 'New Yorker' });
+});
+
+app.get('/Office-Shoes', (req, res, next) => {
+  res.render('officeshoes', { pageTitle: 'Office Shoes' });
+});
+
+app.get('/Ofotért', (req, res, next) => {
+  res.render('ofotert', { pageTitle: 'Ofotért' });
+});
+
+app.get('/Optic-World-Exclusive', (req, res, next) => {
+  res.render('opticworld', { pageTitle: 'Optic World Exclusive' });
+});
+
+app.get('/Origo-Sport', (req, res, next) => {
+  res.render('origosport', { pageTitle: 'Origo Sport' });
+});
+
+app.get('/OTP-Bank', (req, res, next) => {
+  res.render('otp', { pageTitle: 'OTP Bank' });
+});
+
+app.get('/Pandora-Hivatalos-Viszonteladó', (req, res, next) => {
+  res.render('pandora', { pageTitle: 'Pandora Hivatalos Viszonteladó' });
+});
+
+app.get('/Parfois', (req, res, next) => {
+  res.render('parfois', { pageTitle: 'Parfois' });
+});
+
+app.get('/Party-Point', (req, res, next) => {
+  res.render('partypoint', { pageTitle: 'Party Point' });
+});
+
+app.get('/PEPCO', (req, res, next) => {
+  res.render('pepco', { pageTitle: 'PEPCO' });
+});
+
+app.get('/Pepe-Jeans', (req, res, next) => {
+  res.render('pepejeans', { pageTitle: 'Pepe Jeans' });
+});
+
+app.get('/Pirex-Papír', (req, res, next) => {
+  res.render('pirex', { pageTitle: 'Pirex Papír' });
+});
+
+app.get('/Playersroom', (req, res, next) => {
+  res.render('playersroom', { pageTitle: 'Playersroom' });
+});
+
+app.get('/Pólóüzem', (req, res, next) => {
+  res.render('polouzem', { pageTitle: 'Pólóüzem' });
+});
+
+app.get('/Posta', (req, res, next) => {
+  res.render('posta', { pageTitle: 'Posta' });
+});
+
+app.get('/Pull-Bear', (req, res, next) => {
+  res.render('pullbear', { pageTitle: 'Pull & Bear' });
+});
+
+app.get('/Reserved', (req, res, next) => {
+  res.render('reserved', { pageTitle: 'Reserved' });
+});
+
+app.get('/Retro-Jeans', (req, res, next) => {
+  res.render('retro', { pageTitle: 'Retro Jeans' });
+});
+
+app.get('/Rossmann', (req, res, next) => {
+  res.render('rossmann', { pageTitle: 'Rossmann' });
+});
+
+app.get('/Samsung', (req, res, next) => {
+  res.render('samsung', { pageTitle: 'Samsung' });
+});
+
+app.get('/Samsung-Experience-Store', (req, res, next) => {
+  res.render('samsungexperience', { pageTitle: 'Samsung Experience Store' });
+});
+
+app.get('/Saxoo-London', (req, res, next) => {
+  res.render('saxoo', { pageTitle: 'Saxoo London' });
+});
+
+app.get('/Scitec-Nutrition', (req, res, next) => {
+  res.render('scitec', { pageTitle: 'Scitec Nutrition' });
+});
+
+app.get('/SiNSAY', (req, res, next) => {
+  res.render('sinsay', { pageTitle: 'SiNSAY' });
+});
+
+app.get('/Sizeer', (req, res, next) => {
+  res.render('sizeer', { pageTitle: 'Sizeer' });
+});
+
+app.get('/skechers', (req, res, next) => {
+  res.render('skechers', { pageTitle: 'skechers' });
+});
+
+app.get('/SPAR', (req, res, next) => {
+  res.render('spar', { pageTitle: 'SPAR' });
+});
+
+app.get('/Springfield', (req, res, next) => {
+  res.render('springfield', { pageTitle: 'Springfield' });
+});
+
+app.get('/Stradivarius', (req, res, next) => {
+  res.render('stradivarius', { pageTitle: 'Stradivarius' });
+});
+
+app.get('/Takko-Fashion', (req, res, next) => {
+  res.render('takko', { pageTitle: 'Takko Fashion' });
+});
+
+app.get('/Tamaris', (req, res, next) => {
+  res.render('tamaris', { pageTitle: 'Tamaris' });
+});
+
+app.get('/Tefal', (req, res, next) => {
+  res.render('tefal', { pageTitle: 'Tefal' });
+});
+
+app.get('/Telekom', (req, res, next) => {
+  res.render('telekom', { pageTitle: 'Telekom' });
+});
+
+app.get('/Tezenis', (req, res, next) => {
+  res.render('tezenis', { pageTitle: 'Tezenis' });
+});
+
+app.get('/Thaiföld-Kincse-Masszázs-Szalon', (req, res, next) => {
+  res.render('thaifold', { pageTitle: 'Thaiföld Kincse Masszázs Szalon' });
+});
+
+app.get('/tokstop', (req, res, next) => {
+  res.render('tokstop', { pageTitle: 'tokstop' });
+});
+
+app.get('/Tom-Tailor', (req, res, next) => {
+  res.render('tomtailor', { pageTitle: 'Tom Tailor' });
+});
+
+app.get('/Triumph', (req, res, next) => {
+  res.render('triumph', { pageTitle: 'Triumph' });
+});
+
+app.get('/Vision-Express', (req, res, next) => {
+  res.render('visionexpress', { pageTitle: 'Vision Express' });
+});
+
+app.get('/Vodafone', (req, res, next) => {
+  res.render('vodafone', { pageTitle: 'Vodafone' });
+});
+
+app.get('/W-KRUK', (req, res, next) => {
+  res.render('wkruk', { pageTitle: 'W.KRUK' });
+});
+
+app.get('/Women-Secret', (req, res, next) => {
+  res.render('womensecret', { pageTitle: 'Women\'Secret' });
+});
+
+app.get('/Wrangler-Mustang', (req, res, next) => {
+  res.render('wranglermustang', { pageTitle: 'Wrangler Mustang' });
+});
+
+app.get('/Yettel', (req, res, next) => {
+  res.render('yettel', { pageTitle: 'Yettel' });
+});
+
+app.get('/Yves-Rocher', (req, res, next) => {
+  res.render('yvesrocher', { pageTitle: 'Yves Rocher' });
+});
+
+app.get('/Zara', (req, res, next) => {
+  res.render('zara', { pageTitle: 'Zara' });
+});
+
+app.get('/Zeniche-Parfüméria', (req, res, next) => {
+  res.render('zeniche', { pageTitle: 'Zeniche Parfüméria' });
+});
+
+
 
 
 // Define the / route to list all items
