@@ -11,6 +11,7 @@ Commitolás:
 2. lépés git commit -m "commit szövege"
 3. lépés git push origin main
 Projekt leszedése:
+0.lépés git telepítése hivatalos oldalról https://git-scm.com/downloads/win
 1.lépés ctrl+shift+P beírni Git:Clone rákattintani
 2.lépés githubról codera kattintva kimásolni az Url-t majd beilleszteni abba amit a Git:Clone megnyitott
 3.lépés kiválasztani a mappát ahová klónozza, rányomni hogy nyissa meg a clone-t
