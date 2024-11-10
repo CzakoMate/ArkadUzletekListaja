@@ -47,3 +47,6 @@ a, a:visited,a:hover{
 .Img404{
   width: 100%;
 }
+.FloatingA{
+  float: left;
+}
