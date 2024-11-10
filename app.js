@@ -16,7 +16,6 @@ app.set("views", path.join(__dirname, "views"));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, "public")));
 
-// Load the JSON data
 const uzletekData = JSON.parse(
   fs.readFileSync(
     path.join(__dirname, "./public/data", "Uzletek.json"),
@@ -24,7 +23,6 @@ const uzletekData = JSON.parse(
   )
 );
 
-// Define a route for each element
 app.get("/Ametiszt-Ruhatisztito", (req, res, next) => {
   res.render("ametiszt", { pageTitle: "Ametiszt Ruhatisztító" });
 });
@@ -431,15 +429,10 @@ app.get('/Zeniche-Parfumeria', (req, res, next) => {
   res.render('zeniche', { pageTitle: 'Zeniche Parfüméria' });
 });
 
-
-
-
-// Define the / route to list all items
 app.get("/", (req, res, next) => {
   res.render("Fooldal", { pageTitle: "Főoldal", uzletek: uzletekData });
 });
 
-// Middleware to serve static files
 app.use(express.static(path.join(__dirname, "public")));
 
 app.use((req, res, next) => {
