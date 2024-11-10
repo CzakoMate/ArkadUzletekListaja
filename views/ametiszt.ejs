@@ -1,20 +1,10 @@
-<!DOCTYPE html>
-<html lang="hu">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <title><%= pageTitle %></title>
-  </head>
-  <body>
-    <div class="main">
-      <h1><%= pageTitle %></h1>
-      <div class="container">
+<%- include('includes/head') %>
         <img
           src="https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/A-D/ametisztruhatisztito.jpg"
-          alt="<%= pageTitle %>"
+          alt="<%= pageTitle %> logója"
           class="ImgS"
         />
+        <%=content%>
         <p>
           Az országos hálózattal rendelkező cég a textiltisztítási szakma teljes
           vertikumát kínálja üzletében. Egyedüli magyar cégként végzi a
@@ -31,8 +21,4 @@
       <ul>
         <li>Készpénz (Forint)</li>
         <li>Bankkártya</li>
-      </ul>
-      <a href="/"> ❮❮❮ VISSZA A FŐOLDALRA</a>
-    </div>
-  </body>
-</html>
+<%- include('includes/end') %>

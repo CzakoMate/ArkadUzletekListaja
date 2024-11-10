@@ -1,35 +1,46 @@
-<!DOCTYPE html>
-<html lang="hu">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <title><%= pageTitle %></title>
-  </head>
-  <body>
-    <div class="main">
-    <h1><%= pageTitle %></h1>
-    <div class="container">
-      <img src="https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/A-D/amnesia.jpg" alt="<%= pageTitle %>" class="ImgS" />
-      <p>
-        Az Amnesia divat márka új kollekcióit hozza el számodra. Divatos ruházat
-        és kiegészítők minden alkalomra.
-        <br />
-      </p>
-    </div>
-    <h2>SZOLGÁLTATÁSOK</h2>
-    <ul>
-      <li>divat ruházat</li>
-    </ul>
-    <h2>ELFOGADOTT FIZETŐESZKÖZÖK</h2>
-    <ul>
-      <li>Készpénz (Forint)</li>
-      <li>Bankkártya</li>
-      <li>Saját utalvány/ajándékkártya</li>
-      <li>ÁRKÁD Szeged vásárlási utalvány</li>
-    </ul>
-    <a href="/"> ❮❮❮ VISSZA A FŐOLDALRA</a>
-  </div>
-</div>
-  </body>
-</html>
+<%- include('includes/head') %>
+        <img
+          src="https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/A-D/amnesia.jpg"
+          alt="<%= pageTitle %> logója"
+          class="ImgS"
+        />
+        <p>
+          Az AMNESIA fast fashion márka több mint egy évtizede áll az önmagáért
+          való szépség, a stílus, a minőség és a szabad szellem, a nő
+          egyéniségének szolgálatában. A márka hetente megújuló kollekcióiból
+          merészség, érzékiség és pompa sugárzik, amelyek a szépséget
+          egyéniséggel töltik meg, viselőjüknek magabiztosságot adnak. Az
+          AMNESIA kollekciók az ízig-vérig nőknek készülnek, az aktuális
+          trendeket figyelembe véve, ugyanakkor az egyediséget tartva szem
+          előtt. A Vivien Vance termékek szeretettel készülnek. Hisszük, hogy
+          álom fürdőruhádat megtalálod a kollekciónkból.
+          <br />
+        </p>
+      </div>
+      <h2>TERMÉKEK</h2>
+      <ul>
+        <li>ruha</li>
+        <li>nadrág</li>
+        <li>szoknya</li>
+        <li>felső</li>
+        <li>pulóver</li>
+        <li>kabát</li>
+        <li>sapka</li>
+        <li>sál</li>
+        <li>táska</li>
+        <li>öv</li>
+        <li>bizsu</li>
+        <li>fürdőruha</li>
+      </ul>
+      <h2>FORGALMAZOTT MÁRKÁK</h2>
+      <ul>
+        <li>Amnesia</li>
+        <li>Vivien Vance</li>
+      </ul>
+      <h2>ELFOGADOTT FIZETŐESZKÖZÖK</h2>
+      <ul>
+        <li>Készpénz (Forint)</li>
+        <li>Bankkártya</li>
+        <li>Saját utalvány/ajándékkártya</li>
+        <li>ÁRKÁD Szeged vásárlási utalvány</li>
+<%- include('includes/end') %>     

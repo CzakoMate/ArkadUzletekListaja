@@ -443,7 +443,7 @@ app.get("/", (req, res, next) => {
 app.use(express.static(path.join(__dirname, "public")));
 
 app.use((req, res, next) => {
-  res.status(404).render("404", { pageTitle: "Page Not Found", path: "" });
+  res.status(404).render("404", { pageTitle: "404-es hiba - Az oldal nem található", path: "" });
 });
 
 app.listen(PORT, () =>
