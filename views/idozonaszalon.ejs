@@ -1,25 +1,36 @@
-<!DOCTYPE html>
-<html lang="hu">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../public/css/style.css">
-  <title><%= pageTitle %></title>
-</head>
-<body>
-  <h1><%= pageTitle %></h1>
-  <p>Óraszalonunkban széles választékban talál órákat és ékszereket.</p>
-  <h2>Szolgáltatások</h2>
-  <ul>
-    <li>Karórák</li>
-    <li>Ékszerek</li>
-    <li>Órajavítás</li>
-  </ul>
-  <h2>Elfogadott fizetőeszközök</h2>
-  <ul>
-    <li>Készpénz (Forint)</li>
-    <li>Bankkártya</li>
-  </ul>
-  <a href="/">Vissza a főoldalra</a>
-</body>
-</html>
+<%- include('includes/head') %>
+        <img
+          src="https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/I-K/idozonalogo20200310.jpg"
+          alt="<%= pageTitle %> logója"
+          class="ImgS"
+        />
+<p>
+  Az ország legnagyobb alapterületű (200 nm) és választékú (34 márka) óraszalonja. A legnevesebb divatmárkáktól a több milliós svájci óra különlegességekig.
+<h2>TERMÉKEK</h2>
+<ul>
+  <li>ékszer</li>
+  <li>karóra</li>
+  <li>óratartódoboz</li>
+</ul>
+<h2>FORGALMAZOTT MÁRKÁK</h2>
+<ul>
+<li>Armani</li>
+<li>Bering</li>
+<li>Bruno Söhnle</li>
+<li>Casio</li>
+<li>Certina</li>
+<li>SCluse</li>
+<li>Daniel Wellington</li>
+<li>Diesel</li>
+<li>Donna Karen NY</li>
+<li>Doxa</li>
+<li>Ferrari</li>
+</ul>
+<h2>ELFOGADOTT FIZETŐESZKÖZÖK</h2>
+<ul>
+  <li>Készpénz (Forint)</li>
+  <li>Készpénz (Euro)</li>
+  <li>ÁRKÁD Szeged vásárlási utalvány</li>
+  <li>Bankkártya</li>
+</ul>
+<%- include('includes/end') %>
