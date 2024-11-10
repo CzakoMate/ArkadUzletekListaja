@@ -1,22 +1,49 @@
-<!DOCTYPE html>
-<html lang="hu">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../public/css/style.css">
-  <title><%= pageTitle %></title>
-</head>
-<body>
-  <h1><%= pageTitle %></h1>
-  Gyógyszertár és egészségügyi termékek.
-  <br>
-  SZOLGÁLTATÁSOK
-  <br>
-  gyógyszerek<br>
-  ELFOGADOTT FIZETŐESZKÖZÖK<br>
-  <br>
-  Készpénz (Forint)<br>
-  Bankkártya<br>
-  <a href="/">Vissza a főoldalra</a>
-</body>
-</html>
+<%- include('includes/head') %>
+    <img
+          src="https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/BENU.png"
+          alt="<%= pageTitle %> logója"
+          class="ImgS"
+        />
+    <p>
+      Széleskörű betegellátás, mindenki számára személyre szabott tanácsokkal.
+      Vitaminok, táplálék kiegészítők, minőségi babaápolási és szépségápolási
+      cikkek és diagnosztizált eszközök széles tárháza. A BENU Gyógyszertárak
+      célja a betegek illetve egészségük megőrzését fontosnak tartók legmagasabb
+      szakmai elvárásoknak megfelelő színvonalas kiszolgálása.
+    </p>
+  </div>
+    <h2>TERMÉKEK</h2>
+    <ul>
+      <li>vényköteles gyógyszerek</li>
+      <li>vény nélküli gyógyszerek</li>
+      <li>babaápolási termékek</li>
+      <li>dekorkozmetikumok</li>
+      <li>diagnosztikai eszközök</li>
+      <li>szépségápolási cikkek</li>
+      <li>vitaminok</li>
+      <li>táplálék kiegészítők</li>
+      <li>saját márkás termékek</li>
+      <li>szépségápolás</li>
+      <li>szájápolás</li>
+      <li>állatgyógyászati készítmények</li>
+    </ul>
+    <h2>FORGALMAZOTT MÁRKÁK</h2>
+    <ul>
+      <li>Babé</li>
+      <li>Bioderma</li>
+      <li>Eucerin</li>
+      <li>La Roche-Posay</li>
+      <li>Nuxe</li>
+      <li>Uriage</li>
+      <li>Vichy</li>
+    </ul>
+    <h2>SZOLGÁLTATÁSOK</h2>
+    <ul>
+      <li>Pick Up-pont</li>
+    </ul>
+    <h2>ELFOGADOTT FIZETŐESZKÖZÖK</h2>
+    <ul>
+      <li>Készpénz (Forint)</li>
+      <li>Bankkártya</li>
+      <li>Egészségpénztári kártya</li>
+<%- include('includes/end') %>

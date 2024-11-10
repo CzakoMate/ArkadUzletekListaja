@@ -1,0 +1,34 @@
+<h1><%= pageTitle %></h1> -től </body> előttig kitörölni mindent
+<h1><%= pageTitle %></h1> alá 
+<p></p> közé eredeti oldal cím alatti átmásolni
+például:
+https://www.arkadszeged.hu/uezletek/benu-gyogyszertar/?location=p1078-23
+BENU
+Széleskörű betegellátás, mindenki számára személyre szabott tanácsokkal. Vitaminok, táplálék kiegészítők, minőségi babaápolási és szépségápolási cikkek és diagnosztizált eszközök széles tárháza. A BENU Gyógyszertárak célja a betegek illetve egészségük megőrzését fontosnak tartók legmagasabb szakmai elvárásoknak megfelelő színvonalas kiszolgálása.
+=>
+<p>Széleskörű betegellátás, mindenki számára személyre szabott tanácsokkal. Vitaminok, táplálék kiegészítők, minőségi babaápolási és szépségápolási cikkek és diagnosztizált eszközök széles tárháza. A BENU Gyógyszertárak célja a betegek illetve egészségük megőrzését fontosnak tartók legmagasabb szakmai elvárásoknak megfelelő színvonalas kiszolgálása.</p>
+aztán az eredti oldalon nagybetűs lista fölötti neveket
+<h2></h2> tag közé rakni bemásolni
+=><h2>TERMÉKEK</h2>
+aztán f12 fejlesztői felület megnyitása ott ahol az oldal felvillan amiben benne van a lista is rányomni ez itt első section tag aztán div class ahol felvillan itt dtl-description__content tme-styles" lenyítni itt a listákon (<ul>...</ul> jobb klikk Edit as HTML ezt ctr +a ctr +c adott <h2> alá bemásolni az összes <p> elemen végig haladni (az oldalón nagy betűs)
+következő lépés jobb klikk visual stúdióban a codeban és format document with prettier(ha nincs telepítve, oldalt a legjobboldali sávban a legalsó a 4 kocka, itt beírjuk, hogy prettier elsőn kattintás telepítésre install-ra telepítés után visszatétés a kódhoz ugyanabban az oszlopban a legfelső ikon)
+ha formáztuk utána közvetlen <h1><%= pageTitle %></h1> alá img tag src az árkád oldalán adott oldalra kattintva logon jobb kasttintás kép megynyitása új lapon a megnyíló ablakról az URL kimásolni és src-be beilleszteni az alt így nézzen ki minden esetben alt="<%= pageTitle %> logója" és legyen egy class="ImgS" is benne 
+Benu oldalon <img
+     src="https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/BENU.png"
+          alt="<%= pageTitle %> logója"
+          class="ImgS"
+        />
+Ezután ismét formázzuk prettierrel
+Formázást követően a p tag alá egy </div> kell
+itt <p>Széleskörű betegellátás, mindenki számára személyre szabott tanácsokkal. Vitaminok, táplálék kiegészítők, minőségi babaápolási és szépségápolási cikkek és diagnosztizált eszközök széles tárháza. A BENU Gyógyszertárak célja a betegek illetve egészségük megőrzését fontosnak tartók legmagasabb szakmai elvárásoknak megfelelő színvonalas kiszolgálása.</p>
+</div>
+fenntről a 
+<h1><%= pageTitle %></h1>-ig (<h1><%= pageTitle %></h1> is beleértve) mindent kitörlünk helyére bemásoljuk: <%- include('includes/head') %>
+alulról az utolsó lista záró </ul> tag-ig minden kitörölni (a </ul> is beleértve) helyére bemásoljuk: <%- include('includes/end') %>
+elmentjük, teszteljük terminálra npm run dev vagy npm run start, böngészőben localhost:3000 alatt látjuk az oldalt itt a listából kikeressük az adott oldalt rákattintunk és összehasonlítjuk az első oldallal ami az Ametiszt Ruhatisztító, ha a kinézet egyezik
+akkor szerver leállítása visual studio codeban ctrl + c billentyűkombinációval
+commitolás, majd pusholás (Telepítések.txt-ben)
+és kész
+Ha nem lenne egyértelmű az útmató akkor itt:
+https://docs.google.com/document/d/18SbHpTiGE3LKAA7NR85BiIQBJoUGNvIQt7CPyC4nYJY/edit?usp=sharing
+chatgpt-vel rendezve megtalálod
