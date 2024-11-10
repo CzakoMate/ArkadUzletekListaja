@@ -1,25 +1,19 @@
-<!DOCTYPE html>
-<html lang="hu">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../public/css/style.css">
-  <title><%= pageTitle %></title>
-</head>
-<body>
-  <h1><%= pageTitle %></h1>
-  <p>Divatos és megfizethető ruházat fiataloknak és idősebbeknek egyaránt.</p>
-  <h2>Szolgáltatások</h2>
-  <ul>
-    <li>Női ruházat</li>
-    <li>Férfi ruházat</li>
-    <li>Kiegészítők</li>
-  </ul>
-  <h2>Elfogadott fizetőeszközök</h2>
-  <ul>
-    <li>Készpénz (Forint)</li>
-    <li>Bankkártya</li>
-  </ul>
-  <a href="/">Vissza a főoldalra</a>
-</body>
-</html>
+<%- include('includes/head') %>
+        <img
+          src="https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/L-O/mayochix.jpg"
+          alt="<%= pageTitle %> logója"
+          class="ImgS"
+        />
+<h2>TERMÉKEK</h2>
+<ul>
+  <li>bőrdíszmű</li>
+  <li>bizsu</li>
+  <li>női divatáru</li>
+</ul>
+<h2>ELFOGADOTT FIZETŐESZKÖZÖK</h2>
+<ul>
+  <li>Készpénz (Forint)</li>
+  <li>Készpénz (Euro)</li>
+  <li>Bankkártya</li>
+</ul>
+<%- include('includes/end') %>
