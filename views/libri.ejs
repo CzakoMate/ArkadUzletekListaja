@@ -1,25 +1,29 @@
-<!DOCTYPE html>
-<html lang="hu">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../public/css/style.css">
-  <title><%= pageTitle %></title>
-</head>
-<body>
-  <h1><%= pageTitle %></h1>
-  <p>Könyvek széles választéka minden korosztály számára.</p>
-  <h2>Szolgáltatások</h2>
-  <ul>
-    <li>Könyvek</li>
-    <li>Ajándékkártyák</li>
-    <li>Könyv előrendelés</li>
-  </ul>
-  <h2>Elfogadott fizetőeszközök</h2>
-  <ul>
-    <li>Készpénz (Forint)</li>
-    <li>Bankkártya</li>
-  </ul>
-  <a href="/">Vissza a főoldalra</a>
-</body>
-</html>
+<%- include('includes/head') %>
+        <img
+          src="https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/libri.png"
+          alt="<%= pageTitle %> logója"
+          class="ImgS"
+        />
+<p>
+  A Libri Könyvesboltban számos szépirodalmi mű és ismeretterjesztő kiadványon felül kibővített gyerek-és ifjúsági, idegen nyelvű és életmód kiadványok kínálatával találkozhat, és változatlanul élhet állandó akcióinkkal is.
+
+  Ezen felül további kedvezményeket kínál törzsvásárlói részére, valamint tetszőleges összeggel feltölthető ajándékkártyáinkkal azok számára is kiváló lehetőséget biztosít, akik a bőséges kínálatból
+</p>
+</div>
+<h2>TERMÉKEK</h2>
+<ul>
+  <li>könyv</li>
+  <li>hangoskönyv</li>
+  <li>idegen nyelvű könyvek</li>
+</ul>
+<h2>ELFOGADOTT FIZETŐESZKÖZÖK</h2>
+<ul>
+  <li>Készpénz (Forint)</li>
+  <li>Készpénz (Euro)</li>
+  <li>OTP cafeteria kártya</li>
+  <li>ÁFA visszaigénylés (TAX FREE) lehetséges</li>
+  <li>ÁRKÁD Szeged vásárlási utalvány</li>
+  <li>Bankkártya</li>
+</ul>
+
+<%- include('includes/end') %>

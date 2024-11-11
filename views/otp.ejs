@@ -1,26 +1,27 @@
-<!DOCTYPE html>
-<html lang="hu">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../public/css/style.css">
-  <title><%= pageTitle %></title>
-</head>
-<body>
-  <h1><%= pageTitle %></h1>
-  <p>Banki szolgáltatások széles választéka egy helyen.</p>
-  <h2>Szolgáltatások</h2>
-  <ul>
-    <li>Számlavezetés</li>
-    <li>Hitelkártyák</li>
-    <li>Kölcsönök</li>
-    <li>Befektetések</li>
-  </ul>
-  <h2>Elfogadott fizetőeszközök</h2>
-  <ul>
-    <li>Készpénz (Forint)</li>
-    <li>Bankkártya</li>
-  </ul>
-  <a href="/">Vissza a főoldalra</a>
-</body>
-</html>
+<%- include('includes/head') %>
+        <img
+          src="https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/L-O/otpbank.jpg"
+          alt="<%= pageTitle %> logója"
+          class="ImgS"
+        />
+</div>
+<h2>Termékek</h2>
+<ul>
+<li>banki termékek</li>
+</ul>
+<h2>SZOLGÁLTATÁSOK</h2>
+<ul>
+  <li>lakossági számlavezetés</li>
+  <li>befektetési szolgáltatások</li>
+  <li>hitel ügyintézés</li>
+  <li>lakáshitelezés</li>
+  <li>vállalkozói hitelezés</li>
+  <li>ki/be fizetős ATM</li>
+</ul>
+<h2>ELFOGADOTT FIZETŐESZKÖZÖK</h2>
+<ul>
+  <li>Készpénz (Forint)</li>
+  <li>Bankkártya</li>
+</ul>
+
+<%- include('includes/end') %>

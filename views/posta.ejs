@@ -1,34 +1,31 @@
-<!DOCTYPE html>
-<html lang="hu">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../public/css/style.css">
-  <title><%= pageTitle %></title>
-</head>
-<body>
-  <h1><%= pageTitle %></h1>
-  <p>Postai szolgáltatások széles választéka, beleértve a csomagküldést, levélküldést és pénzügyi szolgáltatásokat.</p>
-  <h2>TERMÉKEK</h2>
-  <ul>
-    <li>DVD</li>
-    <li>Édesség</li>
-    <li>Játék</li>
-    <li>Könyvek</li>
-  </ul>
-  <h2>Szolgáltatások</h2>
-  <ul>
-    <li>Postai szolgáltatások</li>
-  </ul>
-  <h2>Elfogadott fizetőeszközök</h2>
-  <ul>
-    <li>Készpénz (Forint)</li>
-    <li>Bankkártya</li>
-    <li>Posta Paletta</li>
-    <li>Étkezési Erzsébet-utalvány</li>
-    <li>Iskolai Erzsébet-utalvány</li>
-    <li>Ajándék Erzsébet-utalvány</li>
-  </ul>
-  <a href="/">Vissza a főoldalra</a>
-</body>
-</html>
+<%- include('includes/head') %>
+        <img
+          src="https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/P-T/posta.jpg"
+          alt="<%= pageTitle %> logója"
+          class="ImgS"
+        />
+<p>
+  Postai szolgáltatások széles választéka, beleértve a csomagküldést, levélküldést és pénzügyi szolgáltatásokat.
+</p>
+</div>
+<h2>TERMÉKEK</h2>
+<ul>
+  <li>DVD</li>
+  <li>Édesség</li>
+  <li>Játék</li>
+  <li>Könyvek</li>
+</ul>
+<h2>SZOLGÁLTATÁSOK</h2>
+<ul>
+<li>Postai szolgáltatások</li>
+</ul>
+<h2>ELFOGADOTT FIZETŐESZKÖZÖK</h2>
+<ul>
+  <li>Készpénz (Forint)</li>
+  <li>Bankkártya</li>
+  <li>Posta Paletta</li>
+  <li>Étkezési Erzsébet-utalvány</li>
+  <li>Iskolai Erzsébet-utalvány</li>
+  <li>Ajándék Erzsébet-utalvány</li>
+</ul>
+<%- include('includes/end') %>
