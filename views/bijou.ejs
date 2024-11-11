@@ -1,22 +1,34 @@
-<!DOCTYPE html>
-<html lang="hu">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../public/css/style.css">
-  <title><%= pageTitle %></title>
-</head>
-<body>
-  <h1><%= pageTitle %></h1>
-  Az üzlet széles választékban kínál divatékszereket és kiegészítőket, amelyekkel feldobhatjuk megjelenésünket.
-  <br>
-  SZOLGÁLTATÁSOK
-  <br>
-  ékszer eladás<br>
-  ELFOGADOTT FIZETŐESZKÖZÖK<br>
-  <br>
-  Készpénz (Forint)<br>
-  Bankkártya<br>
-  <a href="/">Vissza a főoldalra</a>
-</body>
-</html>
+<%- include('includes/head') %>
+    <img
+      src="https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/bijoubrigitte.png"
+      alt="<%= pageTitle %>"
+      class="ImgS"
+    />
+</div>
+    <h2>TERMÉKEK</h2>
+    <ul>
+      <li>divatékszerek</li>
+      <li>órák</li>
+      <li>táskák</li>
+      <li>pénztárcák</li>
+      <li>sálak</li>
+      <li>hajékszerek</li>
+      <li>féldrágakövek</li>
+    </ul>
+    <h2>FORGALMAZOTT MÁRKÁK</h2>
+    <ul>
+      <li>Bijou Brigitte</li>
+      <li>Senso Di Donna</li>
+      <li>925 Silver</li>
+    </ul>
+    <h2>SZOLGÁLTATÁSOK</h2>
+    <ul>
+      <li>fülbelövés</li>
+    </ul>
+    <h2>ELFOGADOTT FIZETŐESZKÖZÖK</h2>
+    <ul>
+      <li>Készpénz (Forint)</li>
+      <li>Bankkártya</li>
+      <li>Saját utalvány/ajándékkártya</li>
+      <li>ÁRKÁD Szeged vásárlási utalvány</li>
+<%- include('includes/end') %>

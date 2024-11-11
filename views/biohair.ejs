@@ -1,22 +1,29 @@
-<!DOCTYPE html>
-<html lang="hu">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../public/css/style.css">
-  <title><%= pageTitle %></title>
-</head>
-<body>
-  <h1><%= pageTitle %></h1>
-  BioHair Szalon a természetes hajápolás szakértője.
-  <br>
-  SZOLGÁLTATÁSOK
-  <br>
-  hajvágás, festés, ápolás<br>
-  ELFOGADOTT FIZETŐESZKÖZÖK<br>
-  <br>
-  Készpénz (Forint)<br>
-  Bankkártya<br>
-  <a href="/">Vissza a főoldalra</a>
-</body>
-</html>
+<%- include('includes/head') %>
+    <img
+      src="https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/OEVT/Shops/Logos/biohair20191003.jpg"
+      alt="<%= pageTitle %>"
+      class="ImgS"
+    />
+    <p>
+      Szépségszalonunk az országos BioHair Szalonhálózat szegedi egysége. A
+      BioHair Szalonban női-férfi-gyermek fodrászat, női-férfi-tini kozmetika,
+      női-férfi manikűr, illetve műköröm szolgáltatást vehet igénybe.
+      Vendégeinknek természetes és vegyszermentes hajápolásban illetve
+      kozmetikai kezelésben lehet részük. Koncepciónk része a hosszú nyitva
+      tartás és az, hogy hozzánk bárki bármikor betérhet. Vendégeinket
+      bejelentkezés nélkül fogadjuk, gyors, professzionális kiszolgálásban
+      részesítjük és mindezt a természetesség jegyében. A sajátmárkás BioHair
+      fodrászati, és Solanie kozmetikai termékek melyekkel dolgozunk,
+      üzletünkben megvásárolhatók.
+    </p>
+  </div>
+    <h2>SZOLGÁLTATÁSOK</h2>
+    <ul>
+      <li>fodrászat</li>
+      <li>manikűr</li>
+      <li>kozmetika</li>
+    </ul>
+    <h2>ELFOGADOTT FIZETŐESZKÖZÖK</h2>
+    <ul>
+      <li>Készpénz (Forint)</li>
+<%- include('includes/end') %>
