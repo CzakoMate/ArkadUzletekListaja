@@ -50,3 +50,17 @@ a, a:visited,a:hover{
 .FloatingA{
   float: left;
 }
+.footer{
+  margin-top: 30px;
+  text-align: center;
+  width: 100%;
+  background-color: #606060;
+  color:#898888;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer a{
+  color: #898888;;
+}

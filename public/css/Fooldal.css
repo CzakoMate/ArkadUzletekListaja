@@ -69,3 +69,16 @@ th {
   background-color: #f2f2f2;
   border: white solid 1px;
 }
+.footer{
+  text-align: center;
+  width: 100%;
+  background-color: #606060;
+  color:#898888;
+  height: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer a{
+  color: #898888;;
+}
