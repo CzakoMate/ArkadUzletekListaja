@@ -5,18 +5,47 @@
       "Image": { "source": "", "alt": "", "class": "" },
       "Introduction": {
         "p1": "A Bio Barát Biobolt egy 11 éve sikeresen működő, és folyamatosan bővülő bolthálózat, melyet magas szakmai tudással rendelkező magyar tulajdonosok hoztak létre. A Bio Barát Biobolt első sorban magasan minősítetttermékeivel, szakeladóival, köztük számos ismert természetgyógyásszal és fito-terapeutával jeleskedik a piacon. Folyamatosan bővülő termékpalettánkon olyan minőségi élelmiszereket és étrend-kiegészítőket sorakoztatunk csak fel, amely emelik ezen piac színvonalát, így azon vásárlók igényeit is igyekszünk kielégíteni, akik speciális táplálkozás irányt követnek.",
-        "p2": "",
-        "p3": "",
-        "p4": "",
-        "p5": "",
+        "p2": "Továbbá nem csak speciális, és natúr élelmiszerek terén jeleskedik boltunk, hanem az étrend-kiegészítők világába is bevezetjük a vásárlóinkat, melyben magasan képezett kollégáink is segítségére lehetnek kedves vásárlóinknak.",
+        "p3": "Több mint 8 ezer terméken túl lehetőséget biztosítunk még 12 ezer fajta termék beszerzésére, így többet között olyan márkákra, illetve termékek beszerzésére is van lehetőség, amelyek vásárlóink számára nehezen beszerezhetőek, vagy akár órákat kell utazniuk értük.",
+        "p4": "Jelenleg Budapest területén 8 másik bolttal rendelkezünk, de folyamatosan fejlődő cégünk igyekszik mindenki számára elérhetővé tenni kínálatát, így webshopos honlapunkon való megrendelésre, kiszállításra is van lehetőség.",
+        "p5": "Várunk szeretettel minden kedves érdeklődőt, régi és új vásárlókat is egyaránt!",
         "p6": ""
       },
+      "Openhours": {
+        "s1o1": "Hé. - Szo.",
+        "s1o2": "09:00 - 20:00",
+        "s2o1": "Va.",
+        "s2o2": "10:00 - 18:00",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "Sidediv": {
+        "telNum": "+36703473203",
+        "email": "info@bio-barat.hu",
+        "webpage": "https://bio-barat.hu/"
+      },
       "Lists": {
-        "List1": { "listName:": "", "listItems": {} },
-        "List2": { "listName:": "", "listItems": {} },
-        "List3": { "listName:": "", "listItems": {} },
-        "List4": { "listName:": "", "listItems": {} },
-        "List5": { "listName:": "", "listItems": {} }
+        "List1": {
+          "listName:": "TERMÉKEK",
+          "listItems": [
+            "paleo",
+            "gluténmentes",
+            "cukormentes",
+            "vegán",
+            "raw",
+            "készételek",
+            "szénhidrát csökkentett",
+            "bio élelmiszerek",
+            "tisztítószer",
+            "étrendkiegészítő"
+          ]
+        },
+        "List2": { "listName:": "FORGALMAZOTT MÁRKÁK", "listItems": [] },
+        "List3": { "listName:": "SZOLGÁLTATÁSOK:", "listItems": [] },
+        "List4": { "listName:": "ELFOGADOTT FIZETŐESZKÖZÖK", "listItems": [] },
+        "List5": { "listName:": "", "listItems": [] },
+        "List6": { "listName:": "", "listItems": [] },
+        "List7": { "listName:": "", "listItems": [] }
       }
     }
   }

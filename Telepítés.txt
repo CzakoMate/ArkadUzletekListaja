@@ -15,6 +15,7 @@ Projekt leszedése:
 1.lépés ctrl+shift+P beírni Git:Clone rákattintani
 2.lépés githubról codera kattintva kimásolni az Url-t majd beilleszteni abba amit a Git:Clone megnyitott
 3.lépés kiválasztani a mappát ahová klónozza, rányomni hogy nyissa meg a clone-t
+4.lépés telepíteni prettiert (Oldal_korrigáció.txt-ben)
 
 Egyéb észrevételek:
 Ha van unpulled commit, akkor lekell commitolni a jelenlegi haladást és úgy lehet pullolni
