@@ -53,8 +53,8 @@
         <% } %>
       </div>
       <div>
-        <% if (data.Lists!= []) { %> <% for (let i = 0; i < data.Lists.length;
-        i++) { %>
+        <% if (Array.isArray(data.Lists) && data.Lists.length > 0) { %> <% for
+        (let i = 0; i < data.Lists.length; i++) { %>
         <h2><%= data.Lists[i].listName %></h2>
         <ul>
           <% for (let j = 0; j < data.Lists[i].listItems.length; j++) { %>

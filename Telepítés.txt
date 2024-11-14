@@ -1,10 +1,9 @@
 0. lépés node telepítése weboldalról
-1. lépés Terminal => new Terminal => npm -v és node -v futtatása ha nem fut hibára 3.lépés jön, ha hibára fut akkor speciális rendszer beállítások =>
+1. lépés Terminal => new Terminal => npm -v és node -v futtatása ha nem fut hibára 2.lépés jön, ha hibára fut akkor speciális rendszer beállítások =>
 alul környezeti változok => Rendszer változok => Path, szerkesztés új C:\Program Files\nodejs hozzáadása,
 valamint megint új C:\Program Files\nodejs\npm, ha az npm továbbra sem működik akkor windows gombon jobb klikk => Terminál rendszergazda
 és ezt a parancsot kell lefutattni: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-2. lépés Terminálon npm init -y, npm i express, npm i nodemon --save-dev
-3. lépés Terminálon npm install express body-parser ejs
+2. lépés Terminálon npm install
 Commitolás:
 0. lépés szerkeszteni/létrehozni fájlokat, majd menteni
 1. lépés git add szerkesztett mappa/fájl például: git add Telepítés.txt vagy git add views/
