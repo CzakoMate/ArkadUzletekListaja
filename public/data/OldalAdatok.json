@@ -160,21 +160,21 @@
           "listName:": "ELFOGADOTT FIZETŐESZKÖZÖK",
           "listItems": ["Készpénz (Forint)", "Bankkártya"]
         }
-      ]
-    },
-    "indoorImages": [
-      {
-        "src": "https://www.arkadszeged.hu/fileadmin/_processed_/5/8/csm_bio-barat-biobolt_02121c9168.jpg",
-        "alt": "Bio-Barát Biobolt bejárata"
-      },
-      {
-        "src": "https://www.arkadszeged.hu/uezletek/bio-barat-biobolt/#&gid=1&pid=2",
-        "alt": "Bio-Barát Biobolt beltere"
+      ],
+      "indoorImages": [
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/5/8/csm_bio-barat-biobolt_02121c9168.jpg",
+          "alt": "Bio-Barát Biobolt bejárata"
+        },
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/9/4/csm_bio-barat-biobolt_1__1234d01f35.jpg",
+          "alt": "Bio-Barát Biobolt beltere"
+        }
+      ],
+      "locationImage": {
+        "src": "/Images/BioBaratBioBoltLocation.png",
+        "alt": "Bio-Barát Biobolt helye az Árkádban"
       }
-    ],
-    "locationImg": {
-      "src": "/Images/BioBaratBioBoltLocation.png",
-      "alt": "Bio-Barát Biobolt helye az Árkádban"
     }
   }
 ]

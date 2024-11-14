@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="hu">
   <head>
     <meta charset="UTF-8" />
@@ -11,74 +12,85 @@
       <h1><%= pageTitle %></h1>
       <div class="col-3">
         <img
-      src="<%=data.Image.src%>"
-      alt="<%=pageTitle logója%>"
-      class="ImgS"
-    />
+          src="<%= data.Image.src %>"
+          alt="<%= pageTitle %> logója"
+          class="ImgS"
+        />
+      </div>
+      <div class="col-3">
+        <table>
+          <tr>
+            <td><%= data.openHours.s1o1 %></td>
+            <td><%= data.openHours.s1o2 %></td>
+          </tr>
+          <% if (data.openHours.s2o1 != "") { %>
+          <tr>
+            <td><%= data.openHours.s2o1 %></td>
+            <td><%= data.openHours.s2o2 %></td>
+          </tr>
+          <% } %> <% if (data.openHours.s3o1 != "") { %>
+          <tr>
+            <td><%= data.openHours.s3o1 %></td>
+            <td><%= data.openHours.s3o2 %></td>
+          </tr>
+          <% } %>
+        </table>
+      </div>
+      <div class="col-3">
+        <% if (data.sideDiv.telNum != "") { %>
+        <p>☎ <%= data.sideDiv.telNum %></p>
+        <% } %> <% if (data.sideDiv.email != "") { %>
+        <p>✉ <%= data.sideDiv.email %></p>
+        <% } %> <% if (data.sideDiv.webpage != "") { %>
+        <p>
+          <a href="<%= data.sideDiv.webpage %>" target="_blank">☛ Weboldal</a>
+        </p>
+        <% } %>
+      </div>
+      <div>
+        <% for (let i = 0; i < data.Introduction.length; i++) { %>
+        <p><%= data.Introduction[i] %></p>
+        <% } %>
+      </div>
+      <div>
+        <% if (data.Lists!= []) { %> <% for (let i = 0; i < data.Lists.length;
+        i++) { %>
+        <h2><%= data.Lists[i].listName %></h2>
+        <ul>
+          <% for (let j = 0; j < data.Lists[i].listItems.length; j++) { %>
+          <li><%= data.Lists[i].listItems[j] %></li>
+          <% } %>
+        </ul>
+        <% } %> <% } %>
+      </div>
+      <div>
+        <% if (Array.isArray(data.indoorImages) && data.indoorImages.length > 0)
+        { %> <% for (let i = 0; i < data.indoorImages.length; i++) { %>
+        <img
+          src="<%= data.indoorImages[i].src %>"
+          alt="<%= data.indoorImages[i].alt %>"
+          class="indoorImg"
+        />
+        <% } %> <% } %>
+      </div>
+      <div>
+        <div>
+          <% if (data.locationImage && data.locationImage.src &&
+          data.locationImage.alt) { %>
+          <img
+            src="<%= data.locationImage.src %>"
+            alt="<%= data.locationImage.alt %>"
+            class="locationImg"
+          />
+          <% } %>
+        </div>
+      </div>
+      <a href="/"> ❮❮❮ VISSZA A FŐOLDALRA</a>
+      <div class="footer">
+        <a href="https://www.arkadszeged.hu/uezletek/" target="_blank"
+          >Eredeti Árkad üzletek listája</a
+        >
+      </div>
     </div>
-    <div class="col-3">
-    <table>
-        <tr>
-            <td><%=data.openHours.s1o1%></td>
-            <td><%=data.openHours.s1o2%></td>
-            
-        </tr>
-        <% if (data.openHours.s3o1!=""){%>
-            <tr>
-                <td><%=data.openHours.s3o1%></td>
-                <td><%=data.openHours.s3o2%></td>
-            </tr>
-            <%}%>
-    </table>
-</div>
-<div class="col-3">
-    <% if(data.sideDiv.telNum!=""){%>
-    <p>☎ <%=data.sideDiv.telnum%></p>
-    <%}>
-    <% if(data.sideDiv.email!=""){%>
-    <p>✉ <%=data.sideDiv.email%></p>
-    <%}>
-    <% if(data.sideDiv.webpage!=""){%>
-    <p><a href="<%=data.sideDiv.webpage%>">☛ Weboldal</a></p>
-    <%}>
-</div>
-    <div>
-        <%for(let i=0;i<data.Introduction.length;i++){ %>
-            <p>
-                <%=data.Introduction[i]%>
-            </p>
-        <%}%>
-    </div>
-    <div>
-        <% if(data.Lists!=[]){%>
-            <% for(let i=0;i<data.Lists.length;i++){ %>
-            <h2><%=data.Lists[i].listName%></h2>
-            <ul>
-                <% for(let j=0;j<data.Lists.listItems.length;j++){%>
-                    <li><%=data.Lists.listItems[j]%></li>
-                <%}%>
-            </ul>
-            <%}%>
-        <%}%>
-    </div>
-    <div>
-        <% if(data.indoorImages!=[]){ %>
-            <% for(let i=0;i<data.indoorImages.length;i++){ %>
-                <img src="<%=data.indoorImages[i].src%>"
-                     alt="<%=data.indoorImages[i].alt%>"
-                     class="indoorImg"
-                     />
-            <%}%>
-        <%}%>
-    </div>
-    <div>
-        <img src="<%=data.locationImage.src%>"
-             alt="<%data.locationImage.alt%>"
-             class="locationImg"
-             />
-    </div>
-    <a href="/"> ❮❮❮ VISSZA A FŐOLDALRA</a>
-    <div class="footer"><a href="https://www.arkadszeged.hu/uezletek/" target="_blank">Eredeti Árkad üzletek listája</a></div>
-    </div>
-    </body>
-    </html>
+  </body>
+</html>
