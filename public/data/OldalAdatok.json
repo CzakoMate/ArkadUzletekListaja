@@ -27,7 +27,7 @@
       },
       "Lists": [
         {
-          "listName:": "TERMÉKEK",
+          "listName": "TERMÉKEK",
           "listItems": [
             "paleo",
             "gluténmentes",
@@ -42,7 +42,7 @@
           ]
         },
         {
-          "listName:": "FORGALMAZOTT MÁRKÁK",
+          "listName": "FORGALMAZOTT MÁRKÁK",
           "listItems": [
             "G&G",
             "Now",
@@ -153,11 +153,11 @@
           ]
         },
         {
-          "listName:": "SZOLGÁLTATÁSOK:",
+          "listName": "SZOLGÁLTATÁSOK:",
           "listItems": ["szaktanácsadás", "magas szintű kiszolgálás"]
         },
         {
-          "listName:": "ELFOGADOTT FIZETŐESZKÖZÖK",
+          "listName": "ELFOGADOTT FIZETŐESZKÖZÖK",
           "listItems": ["Készpénz (Forint)", "Bankkártya"]
         }
       ],

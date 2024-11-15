@@ -4,58 +4,76 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/css/style.css" />
+    <link
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
     <title><%= pageTitle %></title>
   </head>
   <body>
     <a href="/" class="FloatingA"> ❮❮❮ VISSZA</a>
     <div class="main">
-      <h1><%= pageTitle %></h1>
-      <div class="col-3">
-        <img
-          src="<%= data.Image.src %>"
-          alt="<%= pageTitle %> logója"
-          class="ImgS"
-        />
+      <div class="centered-heading">
+        <hr />
+        <h1><%=pageTitle%></h1>
+        <hr />
       </div>
-      <div class="col-3">
-        <table>
-          <tr>
-            <td><%= data.openHours.s1o1 %></td>
-            <td><%= data.openHours.s1o2 %></td>
-          </tr>
-          <% if (data.openHours.s2o1 != "") { %>
-          <tr>
-            <td><%= data.openHours.s2o1 %></td>
-            <td><%= data.openHours.s2o2 %></td>
-          </tr>
-          <% } %> <% if (data.openHours.s3o1 != "") { %>
-          <tr>
-            <td><%= data.openHours.s3o1 %></td>
-            <td><%= data.openHours.s3o2 %></td>
-          </tr>
-          <% } %>
-        </table>
+      <div class="container">
+        <div class="row">
+          <div class="col-4 ImgDiv">
+            <img
+              src="<%= data.Image.src %>"
+              alt="<%= pageTitle %> logója"
+              class="ImgS"
+            />
+          </div>
+          <div class="col-4">
+            <table class="OpenHTable">
+              <tr>
+                <td colspan="2"><strong>Nyitvatartás</strong></td>
+              </tr>
+              <tr>
+                <td><%= data.openHours.s1o1 %></td>
+                <td><%= data.openHours.s1o2 %></td>
+              </tr>
+              <% if (data.openHours.s2o1 != "") { %>
+              <tr>
+                <td><%= data.openHours.s2o1 %></td>
+                <td><%= data.openHours.s2o2 %></td>
+              </tr>
+              <% } %> <% if (data.openHours.s3o1 != "") { %>
+              <tr>
+                <td><%= data.openHours.s3o1 %></td>
+                <td><%= data.openHours.s3o2 %></td>
+              </tr>
+              <% } %>
+            </table>
+          </div>
+          <div class="col-4">
+            <% if (data.sideDiv.telNum != "") { %>
+            <p>📞 <%= data.sideDiv.telNum %></p>
+            <% } %> <% if (data.sideDiv.email != "") { %>
+            <p>✉ <%= data.sideDiv.email %></p>
+            <% } %> <% if (data.sideDiv.webpage != "") { %>
+            <p>
+              ☛
+              <a href="<%= data.sideDiv.webpage %>" target="_blank">Weboldal</a>
+            </p>
+            <% } %>
+          </div>
+        </div>
       </div>
-      <div class="col-3">
-        <% if (data.sideDiv.telNum != "") { %>
-        <p>☎ <%= data.sideDiv.telNum %></p>
-        <% } %> <% if (data.sideDiv.email != "") { %>
-        <p>✉ <%= data.sideDiv.email %></p>
-        <% } %> <% if (data.sideDiv.webpage != "") { %>
-        <p>
-          <a href="<%= data.sideDiv.webpage %>" target="_blank">☛ Weboldal</a>
-        </p>
-        <% } %>
-      </div>
+      <hr />
       <div>
         <% for (let i = 0; i < data.Introduction.length; i++) { %>
         <p><%= data.Introduction[i] %></p>
         <% } %>
       </div>
+      <hr />
       <div>
         <% if (Array.isArray(data.Lists) && data.Lists.length > 0) { %> <% for
         (let i = 0; i < data.Lists.length; i++) { %>
-        <h2><%= data.Lists[i].listName %></h2>
+        <h2><%= data.Lists[i].listName.toUpperCase() %></h2>
         <ul>
           <% for (let j = 0; j < data.Lists[i].listItems.length; j++) { %>
           <li><%= data.Lists[i].listItems[j] %></li>

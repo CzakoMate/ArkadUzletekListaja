@@ -5,7 +5,22 @@ body {
   padding: 20px;
 }
 
+.centered-heading {
+  display: flex;
+  align-items: center;
+}
+.centered-heading::before,
+.centered-heading::after {
+  content: "";
+  flex: 1;
+  border-bottom: 1px solid black;
+  margin: 0 10px;
+}
+.centered-heading h1 {
+  margin: 0;
+}
 h1 {
+  text-align: center;
   font-size: 2em;
   color: #007bff;
   margin-bottom: 20px;
@@ -18,49 +33,64 @@ li {
 ul {
   list-style-type: disc;
 }
-
-.ImgS{
-  width: 35%;
+.ImgDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem, 2rem;
+  background-color: white;
+  border: black double 3px;
+  max-height: 150px;
 }
-a, a:visited,a:hover{
-  text-decoration:none ;
+.ImgS {
+  max-width: 150px;
+  max-height: 100%;
+}
+a,
+a:visited,
+a:hover {
+  text-decoration: none;
   font-weight: bold;
-  color:#007bff;
+  color: #007bff;
 }
-.main{
-  width: 40%;
+.container {
+  margin-top: 40px;
+}
+.main {
+  width: 60%;
   margin: 0 auto;
 }
 
-.container {
-  max-width: 80%;
-  display: flex;
-  justify-content: center;
-}
 .container img {
   max-width: 100%;
-  height: max-content;
 }
-.container p {
-  margin-left: 20px;
-}
-.Img404{
+.Img404 {
   width: 100%;
 }
-.FloatingA{
+.FloatingA {
   float: left;
 }
-.footer{
+.footer {
   margin-top: 30px;
   text-align: center;
   width: 100%;
   background-color: #606060;
-  color:#898888;
+  color: #898888;
   height: 10%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.footer a{
-  color: #898888;;
+.footer a {
+  color: #898888;
+}
+.indoorImg {
+  width: 100%;
+}
+.locationImg {
+  width: 100%;
+}
+.OpenHTable {
+  width: 100%;
+  margin-left: 17%;
 }
