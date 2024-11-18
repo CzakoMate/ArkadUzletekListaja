@@ -1,5 +1,405 @@
-[
-  {
+{
+  "Ametiszt Ruhatisztító": {
+    "pageTitle": "Ametiszt Ruhatisztító",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Amnesia": {
+    "pageTitle": "Amnesia",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Apacs Ezüst Ékszer": {
+    "pageTitle": "Apacs Ezüst Ékszer",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Balance": {
+    "pageTitle": "Balance",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Barber Shop Budapest": {
+    "pageTitle": "Barber Shop Budapest",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Benu Gyógyszertár": {
+    "pageTitle": "Benu Gyógyszertár",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Bershka": {
+    "pageTitle": "Bershka",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Bijou Brigitte": {
+    "pageTitle": "Bijou Brigitte",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Bio-Barát Biobolt": {
     "pageTitle": "Bio-Barát Biobolt",
     "data": {
       "Image": {
@@ -164,17 +564,4667 @@
       "indoorImages": [
         {
           "src": "https://www.arkadszeged.hu/fileadmin/_processed_/5/8/csm_bio-barat-biobolt_02121c9168.jpg",
-          "alt": "Bio-Barát Biobolt bejárata"
+          "alt": " bejárata"
         },
         {
           "src": "https://www.arkadszeged.hu/fileadmin/_processed_/9/4/csm_bio-barat-biobolt_1__1234d01f35.jpg",
-          "alt": "Bio-Barát Biobolt beltere"
+          "alt": " beltere"
         }
       ],
       "locationImage": {
         "src": "/Images/BioBaratBioBoltLocation.png",
-        "alt": "Bio-Barát Biobolt helye az Árkádban"
+        "alt": " helye az Árkádban"
+      }
+    }
+  },
+  "BioHair Szalon": {
+    "pageTitle": "BioHair Szalon",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "BioTechUSA": {
+    "pageTitle": "BioTechUSA",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Bonanza Jeans": {
+    "pageTitle": "Bonanza Jeans",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "budmil Store": {
+    "pageTitle": "budmil Store",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "BUZZ": {
+    "pageTitle": "BUZZ",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "C&A": {
+    "pageTitle": "C&A",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Calzedonia": {
+    "pageTitle": "Calzedonia",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "camel active": {
+    "pageTitle": "camel active",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "CCC": {
+    "pageTitle": "CCC",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Claire's": {
+    "pageTitle": "Claire's",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "CROPP": {
+    "pageTitle": "CROPP",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Deichmann": {
+    "pageTitle": "Deichmann",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Devergo & Friends": {
+    "pageTitle": "Devergo & Friends",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Diamond Óra-ékszer": {
+    "pageTitle": "Diamond Óra-ékszer",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Diamore Ékszer-Óra": {
+    "pageTitle": "Diamore Ékszer-Óra",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "dm": {
+    "pageTitle": "dm",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Dockyard": {
+    "pageTitle": "Dockyard",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Dorko": {
+    "pageTitle": "Dorko",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Douglas Parfüméria": {
+    "pageTitle": "Douglas Parfüméria",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "ÉLETÍZEK Finomságbolt és Kávézó": {
+    "pageTitle": "ÉLETÍZEK Finomságbolt és Kávézó",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Exclusive Change": {
+    "pageTitle": "Exclusive Change",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Flying Tiger Copenhagen": {
+    "pageTitle": "Flying Tiger Copenhagen",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "GAS": {
+    "pageTitle": "GAS",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Guess": {
+    "pageTitle": "Guess",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "H&M": {
+    "pageTitle": "H&M",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Heavy Tools": {
+    "pageTitle": "Heavy Tools",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Herbária": {
+    "pageTitle": "Herbária",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Hervis": {
+    "pageTitle": "Hervis",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "House": {
+    "pageTitle": "House",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Humanic": {
+    "pageTitle": "Humanic",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Időzóna Óramánia Szerviz": {
+    "pageTitle": "Időzóna Óramánia Szerviz",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Időzóna Óraszalon": {
+    "pageTitle": "Időzóna Óraszalon",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Intimissimi": {
+    "pageTitle": "Intimissimi",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "iSTYLE": {
+    "pageTitle": "iSTYLE",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "iWash autókozmetika": {
+    "pageTitle": "iWash autókozmetika",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Jack & Jones": {
+    "pageTitle": "Jack & Jones",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Libri": {
+    "pageTitle": "Libri",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Liliput Játékvilág": {
+    "pageTitle": "Liliput Játékvilág",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Lottózó": {
+    "pageTitle": "Lottózó",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Mayo Chix": {
+    "pageTitle": "Mayo Chix",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Media Markt": {
+    "pageTitle": "Media Markt",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Mister Minit": {
+    "pageTitle": "Mister Minit",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "MK Leder Bőrdíszmű": {
+    "pageTitle": "MK Leder Bőrdíszmű",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Müller": {
+    "pageTitle": "Müller",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Muyoso": {
+    "pageTitle": "Muyoso",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Nail Express": {
+    "pageTitle": "Nail Express",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "New Yorker": {
+    "pageTitle": "New Yorker",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Office Shoes": {
+    "pageTitle": "Office Shoes",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Ofotért": {
+    "pageTitle": "Ofotért",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Optic World Exclusive": {
+    "pageTitle": "Optic World Exclusive",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Origo Sport": {
+    "pageTitle": "Origo Sport",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "OTP Bank": {
+    "pageTitle": "OTP Bank",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Pandora Hivatalos Viszonteladó": {
+    "pageTitle": "Pandora Hivatalos Viszonteladó",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Parfois": {
+    "pageTitle": "Parfois",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Party Point": {
+    "pageTitle": "Party Point",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "PEPCO": {
+    "pageTitle": "PEPCO",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Pepe Jeans": {
+    "pageTitle": "Pepe Jeans",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Pirex Papír": {
+    "pageTitle": "Pirex Papír",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Playersroom": {
+    "pageTitle": "Playersroom",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Pólóüzem": {
+    "pageTitle": "Pólóüzem",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Posta": {
+    "pageTitle": "Posta",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Pull & Bear": {
+    "pageTitle": "Pull & Bear",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Reserved": {
+    "pageTitle": "Reserved",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Retro Jeans": {
+    "pageTitle": "Retro Jeans",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Rossmann": {
+    "pageTitle": "Rossmann",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Samsung": {
+    "pageTitle": "Samsung",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Samsung Experience Store": {
+    "pageTitle": "Samsung Experience Store",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Saxoo London": {
+    "pageTitle": "Saxoo London",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Scitec Nutrition": {
+    "pageTitle": "Scitec Nutrition",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "SiNSAY": {
+    "pageTitle": "SiNSAY",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Sizeer": {
+    "pageTitle": "Sizeer",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "skechers": {
+    "pageTitle": "skechers",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "SPAR": {
+    "pageTitle": "SPAR",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Springfield": {
+    "pageTitle": "Springfield",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Stradivarius": {
+    "pageTitle": "Stradivarius",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Takko Fashion": {
+    "pageTitle": "Takko Fashion",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Tamaris": {
+    "pageTitle": "Tamaris",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Tefal": {
+    "pageTitle": "Tefal",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Telekom": {
+    "pageTitle": "Telekom",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Tezenis": {
+    "pageTitle": "Tezenis",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Thaiföld Kincse Masszázs Szalon": {
+    "pageTitle": "Thaiföld Kincse Masszázs Szalon",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "tokstop": {
+    "pageTitle": "tokstop",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Tom Tailor": {
+    "pageTitle": "Tom Tailor",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Triumph": {
+    "pageTitle": "Triumph",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Vision Express": {
+    "pageTitle": "Vision Express",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Vodafone": {
+    "pageTitle": "Vodafone",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "W.KRUK": {
+    "pageTitle": "W.KRUK",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Women'Secret": {
+    "pageTitle": "Women'Secret",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Wrangler Mustang": {
+    "pageTitle": "Wrangler Mustang",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Yettel": {
+    "pageTitle": "Yettel",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Yves Rocher": {
+    "pageTitle": "Yves Rocher",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Zara": {
+    "pageTitle": "Zara",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
+      }
+    }
+  },
+  "Zeniche Parfüméria": {
+    "pageTitle": "Zeniche Parfüméria",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "",
+        "alt": ""
       }
     }
   }
-]
+}

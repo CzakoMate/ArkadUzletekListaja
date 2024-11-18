@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #d5d5d8;
+  background-color: grey;
   color: #333;
   padding: 20px;
 }
@@ -53,15 +53,17 @@ a:hover {
   font-weight: bold;
   color: #007bff;
 }
-.container {
+.containerTop {
   margin-top: 40px;
 }
+
 .main {
   width: 60%;
   margin: 0 auto;
+  background-color: lightgrey;
+  padding: 20px;
 }
-
-.container img {
+.ImgboxImg {
   max-width: 100%;
 }
 .Img404 {
@@ -69,6 +71,7 @@ a:hover {
 }
 .FloatingA {
   float: left;
+  background-color: lightgrey;
 }
 .footer {
   margin-top: 30px;
@@ -87,8 +90,13 @@ a:hover {
 .indoorImg {
   width: 100%;
 }
+.locationImgDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .locationImg {
-  width: 100%;
+  width: 75%;
 }
 .OpenHTable {
   width: 100%;

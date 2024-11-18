@@ -3,11 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/css/style.css" />
     <link
       href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="/css/style.css" />
     <title><%= pageTitle %></title>
   </head>
   <body>
@@ -18,13 +18,13 @@
         <h1><%=pageTitle%></h1>
         <hr />
       </div>
-      <div class="container">
+      <div class="container containerTop">
         <div class="row">
           <div class="col-4 ImgDiv">
             <img
               src="<%= data.Image.src %>"
               alt="<%= pageTitle %> logója"
-              class="ImgS"
+              class="ImgS ImgboxImg"
             />
           </div>
           <div class="col-4">
@@ -63,45 +63,54 @@
           </div>
         </div>
       </div>
+      <% if(data.Introduction.length>0){ %>
       <hr />
       <div>
         <% for (let i = 0; i < data.Introduction.length; i++) { %>
         <p><%= data.Introduction[i] %></p>
         <% } %>
       </div>
+      <% } %> <% if (data.Lists.length > 0) { %> <% for (let i = 0; i <
+      data.Lists.length; i++) { %> <% if (data.Lists[i].listName!=""){ %>
       <hr />
       <div>
-        <% if (Array.isArray(data.Lists) && data.Lists.length > 0) { %> <% for
-        (let i = 0; i < data.Lists.length; i++) { %>
         <h2><%= data.Lists[i].listName.toUpperCase() %></h2>
+        <% } %> <% if(data.Lists[i].listItems.length>0){ %>
         <ul>
           <% for (let j = 0; j < data.Lists[i].listItems.length; j++) { %>
           <li><%= data.Lists[i].listItems[j] %></li>
           <% } %>
         </ul>
-        <% } %> <% } %>
+        <% } %>
       </div>
-      <div>
-        <% if (Array.isArray(data.indoorImages) && data.indoorImages.length > 0)
-        { %> <% for (let i = 0; i < data.indoorImages.length; i++) { %>
-        <img
-          src="<%= data.indoorImages[i].src %>"
-          alt="<%= data.indoorImages[i].alt %>"
-          class="indoorImg"
-        />
-        <% } %> <% } %>
+      <% } %> <% } %> <% if (data.indoorImages.length > 0) { %>
+      <hr />
+      <div class="container">
+        <div class="row">
+          <% for (let i = 0; i < data.indoorImages.length; i++) { %> <%
+          if(data.indoorImages[i].src!="" && data.indoorImages[i].alt!=""){ %>
+          <% const alt=pageTitle+data.indoorImages[i].alt %>
+          <img
+            src="<%= data.indoorImages[i].src %>"
+            alt="<%= alt %>"
+            class="col-6"
+          />
+          <% } %> <% } %>
+        </div>
       </div>
+      <% } %> <% if (data.locationImage!="" && data.locationImage.src!="" &&
+      data.locationImage.alt!="") { %>
+      <hr />
+      <% const alt=pageTitle+data.locationImage.alt %>
       <div>
-        <div>
-          <% if (data.locationImage && data.locationImage.src &&
-          data.locationImage.alt) { %>
+        <div class="locationImgDiv">
           <img
             src="<%= data.locationImage.src %>"
-            alt="<%= data.locationImage.alt %>"
+            alt="<%=alt %>"
             class="locationImg"
           />
-          <% } %>
         </div>
+        <% } %>
       </div>
       <a href="/"> ❮❮❮ VISSZA A FŐOLDALRA</a>
       <div class="footer">

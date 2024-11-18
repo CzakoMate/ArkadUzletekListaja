@@ -1,25 +1,33 @@
 <!DOCTYPE html>
 <html lang="hu">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title><%= pageTitle %></title>
-  <link rel="stylesheet" href="/css/Fooldal.css">
-</head>
-<body>
-  <h1>Árkád üzletek listája!</h1>
-  <table>
-    <tr>
-      <% uzletek.forEach((item, index) => { %>
-        
-        <td><a href="/<%= item .replace(/á/g, 'a') .replace(/é/g, 'e') .replace(/ő/g, 'o') .replace(/ú/g, 'u') .replace(/ö/g, 'o') .replace(/ü/g, 'u') .replace(/ű/g, 'u') .replace(/í/g, 'i').replace(/ó/g, 'o') .replace(/Á/g, 'A') .replace(/É/g, 'E') .replace(/Ő/g, 'O') .replace(/Ú/g, 'U') .replace(/Ö/g, 'O') .replace(/Ü/g, 'U') .replace(/Ű/g, 'U') .replace(/Í/g, 'I').replace(/Ó/g, 'O') .replace(/\s+/g, '-');  %>"><%= item %></a></td>
-        <% if ((index + 1) % 5 === 0) { %>
-          </tr><tr>
-        <% } %>
-      <% }); %>
-    </tr>
-  </table>
-  <div class="footer"><a href="https://www.arkadszeged.hu/uezletek/" target="_blank">Eredeti Árkad üzletek listája</a></div>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= pageTitle %></title>
+    <link rel="stylesheet" href="/css/Fooldal.css" />
+  </head>
+  <body>
+    <h1>Árkád üzletek listája!</h1>
+    <table>
+      <tr>
+        <% uzletek.forEach((item, index) => { %>
 
+        <td>
+          <a
+            href="/<%= item .replace(/á/g, 'a') .replace(/é/g, 'e') .replace(/ő/g, 'o') .replace(/ú/g, 'u') .replace(/ö/g, 'o') .replace(/ü/g, 'u') .replace(/ű/g, 'u') .replace(/í/g, 'i').replace(/ó/g, 'o') .replace(/Á/g, 'A') .replace(/É/g, 'E') .replace(/Ő/g, 'O') .replace(/Ú/g, 'U') .replace(/Ö/g, 'O') .replace(/Ü/g, 'U') .replace(/Ű/g, 'U') .replace(/Í/g, 'I').replace(/Ó/g, 'O') .replace(/\s+/g, '-');  %>"
+            ><%= item %></a
+          >
+        </td>
+        <% if ((index + 1) % 5 === 0) { %>
+      </tr>
+      <tr>
+        <% } %> <% }); %>
+      </tr>
+    </table>
+    <div class="footer">
+      <a href="https://www.arkadszeged.hu/uezletek/" target="_blank"
+        >Eredeti Árkad üzletek listája</a
+      >
+    </div>
+  </body>
 </html>
