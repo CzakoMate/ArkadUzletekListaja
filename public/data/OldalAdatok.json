@@ -3762,55 +3762,6 @@
       }
     }
   },
-  "Samsung": {
-    "pageTitle": "Samsung",
-    "data": {
-      "Image": {
-        "src": ""
-      },
-      "Introduction": [],
-      "openHours": {
-        "s1o1": "",
-        "s1o2": "",
-        "s2o1": "",
-        "s2o2": "",
-        "s3o1": "",
-        "s3o2": ""
-      },
-      "sideDiv": {
-        "telNum": "",
-        "email": "",
-        "webpage": ""
-      },
-      "Lists": [
-        {
-          "listName": "",
-          "listItems": []
-        },
-        {
-          "listName": "",
-          "listItems": []
-        },
-        {
-          "listName": "",
-          "listItems": []
-        },
-        {
-          "listName": "",
-          "listItems": []
-        }
-      ],
-      "indoorImages": [
-        {
-          "src": "",
-          "alt": ""
-        }
-      ],
-      "locationImage": {
-        "src": ""
-      }
-    }
-  },
   "Samsung Experience Store": {
     "pageTitle": "Samsung Experience Store",
     "data": {

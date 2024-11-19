@@ -31,99 +31,382 @@
     "name": "BioHair Szalon",
     "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/OEVT/Shops/Logos/biohair20191003.jpg"
   },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
-  { "name": "", "link": "" },
   {
-    "name": "",
-    "link": ""
+    "name": "BioTechUSA",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/biotechusa_2024.jpg"
+  },
+  {
+    "name": "Bonanza Jeans",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/A-D/bonanzajeans.jpg"
+  },
+  {
+    "name": "budmil Store",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/budmilstore.png"
+  },
+  {
+    "name": "BUZZ",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/Buzz.png"
+  },
+  {
+    "name": "C&A",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/cunda.png"
+  },
+  {
+    "name": "Calzedonia",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/calzedonia.png"
+  },
+  {
+    "name": "camel active",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/camelactive.png"
+  },
+  {
+    "name": "CCC",
+    "link": "https://www.arkadszeged.hu/fileadmin/_processed_/3/7/csm_ccc_975d57f25c.jpg",
+    "ccceu": "https://www.ccc.eu/hu",
+    "Facebook": "https://www.facebook.com/CCC.Hungary/",
+    "Instagramm": "https://www.instagram.com/cccshoesbags/",
+    "LinkedIn": "https://www.linkedin.com/company/cccsa/",
+    "TikTok": "https://www.tiktok.com/@cccshoesbags"
+  },
+  {
+    "name": "Claire's",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/claires.jpg"
+  },
+  {
+    "name": "CROPP",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/cropp.jpg",
+    "Instagramm": "https://www.instagram.com/cropp_clothing",
+    "Facebook": "https://www.facebook.com/CroppHU"
+  },
+  {
+    "name": "Deichmann",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/deichmann.jpg"
+  },
+  {
+    "name": "Devergo & Friends",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/A-D/devergoandfriends.jpg"
+  },
+  {
+    "name": "Diamond Óra-ékszer",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/A-D/diamondoraekszer.jpg"
+  },
+  {
+    "name": "Diamore Ékszer-Óra",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/A-D/diamore.jpg"
+  },
+  {
+    "name": "dm",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/dmdrogeriemarkt_international.jpg",
+    "kartyasfizleh": "http://kartyas-fizetesi-lehetoseg-data.pdf",
+    "Facebook": "http://www.facebook.com/dm.Magyarorszag",
+    "Youtube": "http://www.youtube.com/dmMagyarorszag",
+    "Instagramm": "http://www.instagram.com/dm_magyarorszag/"
+  },
+  {
+    "name": "Dockyard",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/A-D/dockyard.jpg"
+  },
+  {
+    "name": "Dorko",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/dorko.jpg"
+  },
+  {
+    "name": "Douglas Parfüméria",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/douglas.jpg"
+  },
+  {
+    "name": "ÉLETÍZEK Finomságbolt és Kávézó",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/eletizek.jpg"
+  },
+  {
+    "name": "Exclusive Change",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/E-H/exclusivechange.jpg"
+  },
+  {
+    "name": "Flying Tiger Copenhagen",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/flyingtigercopenhagen.png",
+    "Facebook": "https://www.facebook.com/FlyingTigerCopenhagenHU",
+    "Instagramm": "https://www.instagram.com/flyingtigerhu/"
+  },
+  {
+    "name": "GAS",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/E-H/gas.jpg"
+  },
+  {
+    "name": "Guess",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/guess.jpg",
+    "weboldal": "https://www.guess.eu/en-hu/homepage"
+  },
+  {
+    "name": "H&M",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/hm.jpg"
+  },
+  {
+    "name": "Heavy Tools",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/heavytools.png"
+  },
+  {
+    "name": "Herbária",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/E-H/herbaria.jpg"
+  },
+  {
+    "name": "Hervis",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/hervis.jpg"
+  },
+  {
+    "name": "House",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/HOUSE.jpg"
+  },
+  {
+    "name": "Humanic",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/humanic_hu.jpg"
+  },
+  {
+    "name": "Időzóna Óramánia Szerviz",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/I-K/idozonalogo20200310.jpg"
+  },
+  {
+    "name": "Időzóna Óraszalon",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/I-K/idozonalogo20200310.jpg"
+  },
+  {
+    "name": "Intimissimi",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/intimissimi.jpg"
+  },
+  {
+    "name": "iSTYLE",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/istyle.png"
+  },
+  {
+    "name": "iWash autókozmetika",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/I-K/iwash-autokozmetika.png"
+  },
+  {
+    "name": "Jack & Jones",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/jackandjones.jpeg"
+  },
+  {
+    "name": "Libri",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/libri.png"
+  },
+  {
+    "name": "Liliput Játékvilág",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/L-O/liliputjatekvilag.jpg"
+  },
+  {
+    "name": "Lottózó",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/lottozo.png"
+  },
+  {
+    "name": "Mayo Chix",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/L-O/mayochix.jpg"
+  },
+  {
+    "name": "Media Markt",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/mediamarkt.png"
+  },
+  {
+    "name": "Mister Minit",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/misterminitHU.jpg"
+  },
+  {
+    "name": "MK Leder Bőrdíszmű",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/mkleder.jpg"
+  },
+  {
+    "name": "Müller",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/muellerdrogerie.png"
+  },
+  {
+    "name": "Muyoso",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/Muyoso.jpg"
+  },
+  {
+    "name": "Nail Express",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/L-O/nailexpress.jpg"
+  },
+  {
+    "name": "New Yorker",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/newyorker.jpg"
+  },
+  {
+    "name": "Office Shoes",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/officeshoes.png"
+  },
+  {
+    "name": "Ofotért",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/ofotert.jpeg"
+  },
+  {
+    "name": "Optic World Exclusive",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/L-O/opticworldexclusive.jpg"
+  },
+  {
+    "name": "Origo Sport",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/L-O/origo-sport.jpg"
+  },
+  {
+    "name": "OTP Bank",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/L-O/otpbank.jpg"
+  },
+  {
+    "name": "Pandora Hivatalos Viszonteladó",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/pandorahivatalosviszontelado.png"
+  },
+  {
+    "name": "Parfois",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/P-T/parfois.jpg"
+  },
+  {
+    "name": "Party Point",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/OEVT/Shops/Logos/partypoint400x400.jpg"
+  },
+  {
+    "name": "PEPCO",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/pepco_AT.jpg"
+  },
+  {
+    "name": "Pepe Jeans",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/pepejeans.jpg"
+  },
+  {
+    "name": "Pirex Papír",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/P-T/pirexpapir.jpg"
+  },
+  {
+    "name": "Playersroom",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/playersroom.jpg"
+  },
+  {
+    "name": "Pólóüzem",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/P-T/polouzem.jpg"
+  },
+  {
+    "name": "Posta",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/P-T/posta.jpg"
+  },
+  {
+    "name": "Pull & Bear",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/pullbear.jpg"
+  },
+  {
+    "name": "Reserved",
+    "link": "https://www.arkadszeged.hu/fileadmin/_processed_/f/2/csm_reserved_00ae948dfc.png"
+  },
+  {
+    "name": "Retro Jeans",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/retrojeans.png"
+  },
+  {
+    "name": "Rossmann",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/rossmann.jpg"
+  },
+  {
+    "name": "Samsung Experience Store",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/samsung.jpg"
+  },
+  {
+    "name": "Saxoo London",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/P-T/saxoo-london.jpg"
+  },
+  {
+    "name": "Scitec Nutrition",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/scitecnutrition.jpg"
+  },
+  {
+    "name": "SiNSAY",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/sinsay.png"
+  },
+  {
+    "name": "Sizeer",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/P-T/sizeer2019.png"
+  },
+  {
+    "name": "skechers",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/skechers.jpg"
+  },
+  {
+    "name": "SPAR",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/spar.png"
+  },
+  {
+    "name": "Springfield",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/OEVT/Shops/Logos/springfield20200228.jpg"
+  },
+  {
+    "name": "Stradivarius",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/stradivarius.png"
+  },
+  {
+    "name": "Takko Fashion",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/OEVT/Shops/Logos/takkologo.jpg"
+  },
+  {
+    "name": "Tamaris",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/tamaris.png"
+  },
+  {
+    "name": "Tefal",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/tefal.png"
+  },
+  {
+    "name": "Telekom",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/telekom2.png"
+  },
+  {
+    "name": "Tezenis",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/tezenis.jpg"
+  },
+  {
+    "name": "Thaiföld Kincse Masszázs Szalon",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/P-T/thaifoldkincsemasszazsszalon.jpg"
+  },
+  {
+    "name": "tokstop",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/P-T/tokstop.png"
+  },
+  {
+    "name": "Tom Tailor",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/tomtailor.png"
+  },
+  {
+    "name": "Triumph",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/triumph.png"
+  },
+  {
+    "name": "Vision Express",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/U-Z/visionexpress.jpg"
+  },
+  {
+    "name": "Vodafone",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/OEVT/Shops/Logos/vodafone-logo.jpg"
+  },
+  {
+    "name": "W.KRUK",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/wkruk.jpg"
+  },
+  {
+    "name": "Women'Secret",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/U-Z/womensecret.jpg"
+  },
+  {
+    "name": "Wrangler Mustang",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/mustangleewrangler.jpg"
+  },
+  {
+    "name": "Yettel",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/yettel.png"
+  },
+  {
+    "name": "Yves Rocher",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/yvesrocher.png"
+  },
+  {
+    "name": "Zara",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/OEVT/Shops/Logos/zara.jpg"
+  },
+  {
+    "name": "Zeniche Parfüméria",
+    "link": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/zenicheparfuemeria.png"
   }
 ]
