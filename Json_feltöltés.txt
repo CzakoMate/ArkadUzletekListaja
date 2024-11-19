@@ -1,28 +1,34 @@
 Most jön a neheze, a Json feltöltése, amelynek a végleges formája átlépheti az 50 000 sort.
 
-Minden weboldalt vagy az eredeti vagy a már elkészített oldalakból át kell telepíteni az OldalAdatok.Json-be, 
-erre minta a "Bio-Barát Biobolt", a 402. sortól az 579. sorig (javaslok ctrl + f használatát).
+Mielőtt nekikezdenél legyél szíves pull-olni.
+
+Minden weboldalt az eredeti oldalról, kivéve az első kép linkjét azt az ElsoImgLinkek.Json-ből névszerint kell áttölteni 
+az OldalAdatok.Json-be, erre minta a "Bio-Barát Biobolt", a 402. sortól az 579. sorig (javaslok ctrl + f használatát).
 
 A properyk feltöltése:
 
-Az első kép src-jét a weboldalról szedjük le vagy a már kidolgozott oldal első képének src-jéből.
+Az első kép src-jét a pageTitlenek megfelelően az ElsoImgLinkek.Json-ből a "link" property-ből másoljuk át, ahol több attributum is van,
+azzal ne foglalkozz, majd én megcsinálom.
 
-Az Introductiont a weboldalról érdemes leszedni, mivel nem kell kiszedni a br-eket belőle és soronként másolja, 
-így csak az elejére végére kell " jelet tenni és a végére ,-t kivéve az utolsó sornál.
+Az Introductiont az eredeti weboldalról kell leszedni, az elejére végére kell " jelet tenni és a végére ,-t kivéve az utolsó sornál. 
+A ctrl gomb folyamatos lenyomása valamint a görgő folyamatos lenyomása mellett, húzva a kurzort több sort is ki lhet jelölni, 
+majd az end gomb lenyomásával ezen sorok végére ugrani.
 
 Az Openhours táblázat mező nevekkel van jelölve az s = sor az o = oszlop tehát s1o1 = első sor első oszlop,
 az adatokat az eredeti oldal nyitvatartás táblázatából kell kiszedni, cellánként.
 
-A sideDiv-ben három adatot kell feltölteni, a telNum-ot telefonszámot, az email-t email címet, webpage-et 
-az adott üzlet weboldalának linkjét, amelyet az eredeti oldalon a weboldal linkre kattintva majd az azután megnyiló ablak url-jét 
-kimásolva kapunk meg. Ha bármelyik adat nem szerepel az adott értéket ""-ként kell hagyni, mivel a content.ejs lekezeli.
+A sideDiv-ben három adatot kell feltölteni természetesen az eredeti oldalról a nyitvatartás táblázat melletti szekcióból, 
+a telNum-ot telefonszámot, az email-t email címet, webpage-et az adott üzlet weboldalának linkjét, amelyet az eredeti oldalon 
+a weboldal linkre kattintva majd az azután megnyiló ablak url-jét kimásolva kapunk meg. Ha bármelyik adat nem szerepel az adott 
+értéket ""-ként kell hagyni, mivel a content.ejs lekezeli.
 
 A Lists egy olyan tömb amely listName - lista címe és listItems tömb - lista elemeiből áll, ez egy relatív hosszúságú tömb, tehát 
-ha több lista van mint négy akkor csak vesszőt rakunk az utolsó {...} után és egy 
+ha több lista van mint négy akkor csak vesszőt rakunk az utolsó object ({} közötti adatstruktúra) után és egy 
 üres példányt utána másolunk és úgy töltjük fel, (Fontos, hogy az utolsó pédány után ne legyen vessző!)
 viszont ha kevesebb van akkor az üres példányt ki kell szedni, (csak kitörölni az előző }-ig vesszőt is, listName property előttig)
-bár a content.ejs lekezeli, attól így igényesebb. A legkönnyebben az eredeti oldalról lehet leszedni, nagybetűs listacímet csak
-átmásolni listName property-be, a li-ket tehát lista elemeit pedig úgy ahogy van kimásolni az oldalról és bemásolni Chat Gpt-be, úgy
+bár a content.ejs lekezeli, attól így igényesebb. Az eredeti oldalról kell leszedni, nagybetűs listacímet csak
+átmásolni listName property-be, a li-ket tehát lista elemeit, ha rövid lehet alkalmazni a többszörös sorkijelölést (Introductionsnél
+ részletesen leírva) ha hosszú pedig úgy ahogy van kimásolni az oldalról és bemásolni Chat Gpt-be, úgy
 hogy: "Kérlek csinálj az alábbi szövegből, szöveges tömböt az enterek mentén tördelve, alábbi szöveg: (az oldalról kimásolt lista)", 
 majd ezt a listItemsbe []-be bemásolni, értelemszerűen csak az ott lévő két szögletes zárójel közötti részt, a többit ne. Ha esetleg 
 az oldalon nincs lista akkor ki kell törölni A Lists után mindent, úgy hogy így nézzen ki Lists: [],
@@ -32,19 +38,14 @@ oldalon ilyen jellegű kép. Az src-be a kép-et az eredeti oldalról arra jobbk
 kimásolva találjuk meg, az alt-ba azt írd amit látsz a képen ez 90%-ban az üzlet bejárata vagy a beltere (minta BIo-Barát BioBolt data 
 indoorImages alt propertyje, a nevét nem kell kiírni az oldalnak, mert a content.ejs lekezeli).
 
-A location Image(A legdolgosabb képecske), minden oldalan külön kézzel kivágott kép (képmetszővel win11-en), úgy hogy látszódjon melyik 
-bolt hol található (zöld kijelölés legyen, ha jól tudom egér fölévitele, aztán print screen billentyű). A kivágás után szerkesztést is 
-igényel, háttér egyszínűsítése (körbevágással), valamint a kis gombok leszerkesztése (a fel le nyilak), nehogy megtévesztő legyen, 
-de a szint/emelet is látszódjon (egyszerű paintban nem lehet megszerkeszteni, mert pixel szinten kell átszínezni hogy egyenes legyen 
-a vonal, ha már ennyi időt belefektetünk akkor legyen normális). A szerkesztett képet a public/Images mappába helyezzük majd az elérési 
-útvonalát az srcbe (minta: Bio-Barát BioBolt data locationImg src propertyje), az altba csak annyit hogy " helye az Árkádban" (ki lehetne
-szedni teljesen csak már késő, mivel biztos nem fogok mégegyszer egy sort átirógatni mindenhol, mivel csak végig menni(legörgetni
-nyilakkal) a szinte üres eddig 5231 soros Json-on minimum 15 perc).
+A location Image(A legdolgosabb képecske, ezt én megcsinálom minden oldalra), minden oldalan külön kézzel kivágott kép 
+(képmetszővel), úgy hogy látszódjon melyik bolt hol található (zöld kijelölés legyen és fölötte hogy melyik üzlet). 
+A kivágás után szerkesztést is igényel, háttér egyszínűsítése (körbevágással), valamint a kis gombok leszerkesztése (a fel le nyilak), 
+nehogy megtévesztő legyen,  de a szint/emelet is látszódjon (egyszerű paintban nem lehet megszerkeszteni, mert pixel szinten kell 
+átszínezni hogy egyenes legyen a vonal, ha már ennyi időt belefektetünk akkor legyen normális). A szerkesztett képet a public/Images 
+mappába helyezzük majd az elérési útvonalát az srcbe (minta: Bio-Barát BioBolt data locationImg src propertyje) írjuk.
 
 Egyéb megjegyzés:
 Az üres feltöltetlen oldalakon az alsó div és csík azért van ott, mert ha jól tudom minden üzletnek van helye az árkádban, ezért a 
 content.ejs minden esetben úgy kezeli le, hogy van ilyen. Ha bekerülnek az adatok rendesen jelenik meg.
-
-Ha az adott oldal feltöltése megvolt, akkor ki lehet törölni, de ezt nem érdemes azonnal megtenni, csak a legvégén, mivel ha egyszerre 
-dolgozunk mindig vissza merge-li, tehát vagy a legelején kell kitörölöni, vagy a legvégén és mindenkinek, vagy mindenki újraklónozza a 
-törlés után ha az elején töröljük.
+Nem kell egyesével commitolni, érdemes, úgy hogy amit aznap/abban az etapban megcsinálsz azt felcommitolod.
