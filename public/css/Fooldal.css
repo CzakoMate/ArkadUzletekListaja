@@ -17,30 +17,29 @@ h1 {
   text-align: center;
 }
 
-table {
+.content {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 20px;
   border: black solid 1px;
 }
 
-th,
-td {
+.col-2 {
   padding: 12px;
   text-align: center;
   border: black solid 1px;
 }
 
-th {
+.col-2 {
   background-color: #f2f2f2;
 }
 
-td a {
+.col-2 a {
   color: #007bff;
   text-decoration: none;
 }
 
-td a:hover {
+.col-2 a:hover {
   text-decoration: underline;
 }
 
@@ -51,22 +50,14 @@ footer {
   color: #666;
 }
 
-table {
+.content {
   width: 100%;
   border-collapse: collapse;
   border: white solid 1px;
 }
-th,
-td {
+.col-2 {
   border: 1px solid #ddd;
   padding: 8px;
-  border: white solid 1px;
-}
-th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #f2f2f2;
   border: white solid 1px;
 }
 .footer{
