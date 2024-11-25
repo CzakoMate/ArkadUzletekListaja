@@ -151,7 +151,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/ApacsEzustEkszerLocation.png"
       }
     }
   },
@@ -200,7 +200,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/BalanceLocation.png"
       }
     }
   },
@@ -249,7 +249,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/BarberShopBudapestLocation.png"
       }
     }
   },
@@ -298,7 +298,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/BenuGyogyszertarLocation.png"
       }
     }
   },
@@ -347,7 +347,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/BreshkaLocation.png"
       }
     }
   },
@@ -396,7 +396,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/BijouBrigitteLocation.png"
       }
     }
   },
@@ -622,7 +622,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/BioHairSzalonLocation.png"
       }
     }
   },
@@ -671,7 +671,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/BioTechUsaLocation.png"
       }
     }
   },
@@ -720,7 +720,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/BonanzaJeansLocation.png"
       }
     }
   },
