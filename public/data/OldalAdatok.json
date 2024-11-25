@@ -1,4 +1,56 @@
 {
+  "AlphaZoo": {
+    "pageTitle": "AlphaZoo",
+    "data": {
+      "Image": {
+        "src": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/alphazoo.png"
+      },
+      "Introduction": [
+        "Az első magyar tulajdonú, állateledelt és -felszerelést kínáló üzlethálózat, az AlphaZoo boltjaiban minden megtalálható, amire egy kisállatnak, illetve gazdijának szüksége lehet. Áruházaink a lehető legkedvezőbb áron kínáljuk a legismertebb és legmegbízhatóbb magyar és külföldi gyártók termékválasztékát.",
+        "A hálózat szakmai hátterét az ország legmeghatározóbb, állatgyógyszereket, állateledeleket és állatfelszerelési cikkeket gyártó és forgalmazó vállalata, a több mint húsz éves állatkórházi és állatorvosi szakmai múlttal rendelkező Alpha-Vet Állatgyógyászati Kft. adja. ",
+        "Szakembereink kiemelkedő tudása és az évtizedek során összegyűjtött tapasztalatok jelentik a garanciát arra, hogy az AlphaZoo minden kedvenc számára a legmegfelelőbb termékeket kínálja, legyen szó akár felszerelésekről, akár eledelekről, akár gyógyszerekről."
+      ],
+      "openHours": {
+        "s1o1": "Hé. - Szo.",
+        "s1o2": "09:00 - 20:00",
+        "s2o1": "Va.",
+        "s2o2": "10:00 - 18:00",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": "https://alphazoo.hu/"
+      },
+      "Lists": [],
+      "indoorImages": [
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/a/7/csm_1000028007_cca2d4cb8f.jpg",
+          "alt": " bejárata"
+        },
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/0/3/csm_1000028008_f0efc7940b.jpg",
+          "alt": " kínálata akasztókon"
+        },
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Galleries/alpha-zoo/1000028009.jpg",
+          "alt": " pénztára"
+        },
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Galleries/alpha-zoo/1000028010.jpg",
+          "alt": " kínálata polcokon"
+        },
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Galleries/alpha-zoo/1000028011.jpg",
+          "alt": " knínálata üveges szekrényekben"
+        }
+      ],
+      "locationImage": {
+        "src": "/Images/AlphaZooLOcation.png"
+      }
+    }
+  },
   "Ametiszt Ruhatisztító": {
     "pageTitle": "Ametiszt Ruhatisztító",
     "data": {
@@ -769,7 +821,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/BudmilStoreLocation.png"
       }
     }
   },
@@ -818,7 +870,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/BUZZLocation.png"
       }
     }
   },
@@ -867,7 +919,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/C&ALocation1.png"
       }
     }
   },
@@ -916,7 +968,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/CalzedoniaLocation.png"
       }
     }
   },
@@ -965,7 +1017,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/CamelActiveLocation.png"
       }
     }
   },
@@ -1014,7 +1066,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/CCCLocation.png"
       }
     }
   },
@@ -1063,7 +1115,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/Claire'sLocation.png"
       }
     }
   },
