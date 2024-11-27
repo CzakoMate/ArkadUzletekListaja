@@ -162,44 +162,64 @@
     "pageTitle": "Apacs Ezüst Ékszer",
     "data": {
       "Image": {
-        "src": ""
+        "src": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/apacs.png"
       },
-      "Introduction": [],
+      "Introduction": [
+        "A LEGNAGYOBB EZÜST ÉKSZER ÉS PIERCING KÍNÁLAT ITTHON.",
+        "Magyarország 7 városában (Budapesten, Győrött, Pécsett, Szegeden, Székesfehérváron, Nyíregyházán, Kecskeméten) több, mint 100 000-féle ékszert kínálunk. A világ 13 országából közel 600 ötvös és iparművész design ékszerei találhatók meg ékszerboltjainkban, így az egyik legnagyobb hazai ékszerválasztékot nyújtjuk: nyakláncok, karláncok, karperecek, medálok, gyűrűk, fülbevalók, piercingek és más arany és ezüst ékszerek széles kínálata.",
+        "Designereink odafigyelnek arra, hogy ékszereink a legkülönbözőbb korosztályok számára is megfelelő vonzerőt képviseljenek. Ékszerüzleteink árukészlete folyamatosan változik, ezért a fotókon látható ékszerek csupán egy aktuális hangulatot tükröznek, nem feltétlenül a jelenlegi kínálatot reprezentálják."
+      ],
       "openHours": {
-        "s1o1": "",
-        "s1o2": "",
-        "s2o1": "",
-        "s2o2": "",
+        "s1o1": "Hé. - Szo.",
+        "s1o2": "09:00 - 20:00",
+        "s2o1": "Va.",
+        "s2o2": "10:00 - 18:00",
         "s3o1": "",
         "s3o2": ""
       },
       "sideDiv": {
-        "telNum": "",
-        "email": "",
-        "webpage": ""
+        "telNum": "+36 70 377 8782",
+        "email": "szeged.apacs@gmail.com",
+        "webpage": "https://www.apacsezust.hu/"
       },
       "Lists": [
         {
-          "listName": "",
-          "listItems": []
+          "listName": "TERMÉKEK",
+          "listItems": [
+            "ezüst ékszerek",
+            "bizsu ékszerek",
+            "bőrszál",
+            "ezüst ékszeralkatrész",
+            "fültágítók",
+            "orvosi fém ékszer",
+            "piercing alkatrész",
+            "textil táska",
+            "orvosi fém testékszer",
+            "ékszer tisztítószerek"
+          ]
         },
         {
-          "listName": "",
-          "listItems": []
+          "listName": "SZOLGÁLTATÁSOK",
+          "listItems": ["ékszertisztítás", "kőpótlás ékszerekbe"]
         },
         {
-          "listName": "",
-          "listItems": []
-        },
-        {
-          "listName": "",
-          "listItems": []
+          "listName": "ELFOGADOTT FIZETŐESZKÖZÖK",
+          "listItems": [
+            "Készpénz (Forint)",
+            "Bankkártya",
+            "Saját utalvány/ajándékkártya",
+            "ÁRKÁD Szeged vásárlási utalvány"
+          ]
         }
       ],
       "indoorImages": [
         {
-          "src": "",
-          "alt": ""
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/7/8/csm_apacs_f8b8a14e20.jpg",
+          "alt": " bejárata"
+        },
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/2/8/csm_apacs_1__9eb699a652.jpg",
+          "alt": " beltere"
         }
       ],
       "locationImage": {
@@ -1164,7 +1184,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/CROPPLocation.png"
       }
     }
   },
@@ -1213,7 +1233,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/DeichmannLocation.png"
       }
     }
   },
@@ -1262,7 +1282,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/Devergo&FriendsLocation.png"
       }
     }
   },
@@ -1311,7 +1331,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/DiamondOra-EkszerLocation.png"
       }
     }
   },
@@ -1360,7 +1380,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/DiamoreEkszer-OraLocation.png"
       }
     }
   },
@@ -1409,7 +1429,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/dmLocation.png"
       }
     }
   },
@@ -1458,7 +1478,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/DockYardLocation.png"
       }
     }
   },
@@ -1507,7 +1527,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/DorkoLocation.png"
       }
     }
   },
@@ -1556,7 +1576,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/DouglasParfumeriaLocation.png"
       }
     }
   },
@@ -1605,7 +1625,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/EletIzekLocation.png"
       }
     }
   },
@@ -1654,7 +1674,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/ExclusiveChangeLocation.png"
       }
     }
   },
@@ -1703,7 +1723,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/FlyingTigerCoppenhagenLocation.png"
       }
     }
   },
@@ -1752,7 +1772,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/GasLocation.png"
       }
     }
   },
@@ -1801,7 +1821,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/GuessLocation.png"
       }
     }
   },
@@ -1850,7 +1870,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/H&MLocation1.png"
       }
     }
   },
@@ -1899,7 +1919,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/HeavyToolsLocation.png"
       }
     }
   },
@@ -1948,7 +1968,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/HerbariaLocation.png"
       }
     }
   },
@@ -1997,7 +2017,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/HervisLocation.png"
       }
     }
   },
@@ -2046,7 +2066,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/HouseLocation.png"
       }
     }
   },
@@ -2095,7 +2115,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/HumanicLocation.png"
       }
     }
   },
