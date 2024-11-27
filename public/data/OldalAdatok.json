@@ -46,9 +46,7 @@
           "alt": " knínálata üveges szekrényekben"
         }
       ],
-      "locationImage": {
-        "src": "/Images/AlphaZooLOcation.png"
-      }
+      "locationImage": [{ "src": "/Images/AlphaZooLOcation.png" }]
     }
   },
   "Ametiszt Ruhatisztító": {
@@ -84,9 +82,7 @@
         }
       ],
       "indoorImages": [],
-      "locationImage": {
-        "src": "/Images/AmetisztRuhaTisztitoLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/AmetisztRuhaTisztitoLocation.png" }]
     }
   },
   "Amnesia": {
@@ -153,9 +149,7 @@
           "alt": " bejárata"
         }
       ],
-      "locationImage": {
-        "src": "/Images/AmnesiaLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/AmnesiaLocation.png" }]
     }
   },
   "Apacs Ezüst Ékszer": {
@@ -222,9 +216,7 @@
           "alt": " beltere"
         }
       ],
-      "locationImage": {
-        "src": "/Images/ApacsEzustEkszerLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/ApacsEzustEkszerLocation.png" }]
     }
   },
   "Balance": {
@@ -271,9 +263,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/BalanceLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BalanceLocation.png" }]
     }
   },
   "Barber Shop Budapest": {
@@ -320,9 +310,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/BarberShopBudapestLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BarberShopBudapestLocation.png" }]
     }
   },
   "Benu Gyógyszertár": {
@@ -369,9 +357,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/BenuGyogyszertarLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BenuGyogyszertarLocation.png" }]
     }
   },
   "Bershka": {
@@ -418,9 +404,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/BreshkaLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BreshkaLocation.png" }]
     }
   },
   "Bijou Brigitte": {
@@ -467,9 +451,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/BijouBrigitteLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BijouBrigitteLocation.png" }]
     }
   },
   "Bio-Barát Biobolt": {
@@ -644,9 +626,7 @@
           "alt": " beltere"
         }
       ],
-      "locationImage": {
-        "src": "/Images/BioBaratBioBoltLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BioBaratBioBoltLocation.png" }]
     }
   },
   "BioHair Szalon": {
@@ -693,9 +673,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/BioHairSzalonLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BioHairSzalonLocation.png" }]
     }
   },
   "BioTechUSA": {
@@ -742,9 +720,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/BioTechUsaLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BioTechUsaLocation.png" }]
     }
   },
   "Bonanza Jeans": {
@@ -791,9 +767,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/BonanzaJeansLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BonanzaJeansLocation.png" }]
     }
   },
   "budmil Store": {
@@ -840,9 +814,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/BudmilStoreLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BudmilStoreLocation.png" }]
     }
   },
   "BUZZ": {
@@ -889,9 +861,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/BUZZLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/BUZZLocation.png" }]
     }
   },
   "C&A": {
@@ -938,9 +908,10 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/C&ALocation1.png"
-      }
+      "locationImage": [
+        { "src": "/Images/C&ALocation1.png" },
+        { "src": "/Images/C&ALocation2.png" }
+      ]
     }
   },
   "Calzedonia": {
@@ -987,9 +958,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/CalzedoniaLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/CalzedoniaLocation.png" }]
     }
   },
   "camel active": {
@@ -1036,9 +1005,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/CamelActiveLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/CamelActiveLocation.png" }]
     }
   },
   "CCC": {
@@ -1085,9 +1052,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/CCCLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/CCCLocation.png" }]
     }
   },
   "Claire's": {
@@ -1134,9 +1099,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/Claire'sLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/Claire'sLocation.png" }]
     }
   },
   "CROPP": {
@@ -1183,9 +1146,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/CROPPLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/CROPPLocation.png" }]
     }
   },
   "Deichmann": {
@@ -1232,9 +1193,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/DeichmannLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/DeichmannLocation.png" }]
     }
   },
   "Devergo & Friends": {
@@ -1281,9 +1240,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/Devergo&FriendsLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/Devergo&FriendsLocation.png" }]
     }
   },
   "Diamond Óra-ékszer": {
@@ -1330,9 +1287,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/DiamondOra-EkszerLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/DiamondOra-EkszerLocation.png" }]
     }
   },
   "Diamore Ékszer-Óra": {
@@ -1379,9 +1334,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/DiamoreEkszer-OraLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/DiamoreEkszer-OraLocation.png" }]
     }
   },
   "dm": {
@@ -1428,9 +1381,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/dmLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/dmLocation.png" }]
     }
   },
   "Dockyard": {
@@ -1477,9 +1428,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/DockYardLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/DockYardLocation.png" }]
     }
   },
   "Dorko": {
@@ -1526,9 +1475,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/DorkoLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/DorkoLocation.png" }]
     }
   },
   "Douglas Parfüméria": {
@@ -1575,9 +1522,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/DouglasParfumeriaLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/DouglasParfumeriaLocation.png" }]
     }
   },
   "ÉLETÍZEK Finomságbolt és Kávézó": {
@@ -1624,9 +1569,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/EletIzekLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/EletIzekLocation.png" }]
     }
   },
   "Exclusive Change": {
@@ -1673,9 +1616,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/ExclusiveChangeLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/ExclusiveChangeLocation.png" }]
     }
   },
   "Flying Tiger Copenhagen": {
@@ -1722,9 +1663,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/FlyingTigerCoppenhagenLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/FlyingTigerCoppenhagenLocation.png" }]
     }
   },
   "GAS": {
@@ -1771,9 +1710,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/GasLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/GasLocation.png" }]
     }
   },
   "Guess": {
@@ -1820,9 +1757,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/GuessLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/GuessLocation.png" }]
     }
   },
   "H&M": {
@@ -1869,9 +1804,10 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/H&MLocation1.png"
-      }
+      "locationImage": [
+        { "src": "/Images/H&MLocation1.png" },
+        { "src": "/Images/H&MLocation2.png" }
+      ]
     }
   },
   "Heavy Tools": {
@@ -1918,9 +1854,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/HeavyToolsLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/HeavyToolsLocation.png" }]
     }
   },
   "Herbária": {
@@ -1967,9 +1901,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/HerbariaLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/HerbariaLocation.png" }]
     }
   },
   "Hervis": {
@@ -2016,9 +1948,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/HervisLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/HervisLocation.png" }]
     }
   },
   "House": {
@@ -2065,9 +1995,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/HouseLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/HouseLocation.png" }]
     }
   },
   "Humanic": {
@@ -2114,9 +2042,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/HumanicLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/HumanicLocation.png" }]
     }
   },
   "Időzóna Óramánia Szerviz": {
@@ -2163,9 +2089,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/IdozonaOraManiaSzervizLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/IdozonaOraManiaSzervizLocation.png" }]
     }
   },
   "Időzóna Óraszalon": {
@@ -2212,9 +2136,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/IdoZonaOraSzalonLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/IdoZonaOraSzalonLocation.png" }]
     }
   },
   "Intimissimi": {
@@ -2261,9 +2183,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/IntimissimiLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/IntimissimiLocation.png" }]
     }
   },
   "iSTYLE": {
@@ -2310,9 +2230,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/IStyleLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/IStyleLocation.png" }]
     }
   },
   "iWash autókozmetika": {
@@ -2359,9 +2277,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/IWashLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/IWashLocation.png" }]
     }
   },
   "Jack & Jones": {
@@ -2408,9 +2324,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/Jack&JonesLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/Jack&JonesLocation.png" }]
     }
   },
   "Kölyökpark": {
@@ -2457,9 +2371,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/KolyokParkLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/KolyokParkLocation.png" }]
     }
   },
   "konzolvilág": {
@@ -2506,9 +2418,11 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/konzolvilagAtepitesalattLocations.png"
-      }
+      "locationImage": [
+        { "src": "/Images/konzolvilagAtepitesalattLocations.png" },
+        { "src": "/Images/konzolvilagAtepitesalattLocations.png" },
+        { "src": "/Images/konzolvilagAtepitesalattLocations.png" }
+      ]
     }
   },
   "L'Blanche": {
@@ -2555,9 +2469,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/L'BlancheLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/L'BlancheLocation.png" }]
     }
   },
   "L'Occitane": {
@@ -2604,9 +2516,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/L'OccitaneLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/L'OccitaneLocation.png" }]
     }
   },
   "Libri": {
@@ -2653,9 +2563,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/LibriLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/LibriLocation.png" }]
     }
   },
   "Liliput Játékvilág": {
@@ -2702,9 +2610,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/LiliputJatekVilagLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/LiliputJatekVilagLocation.png" }]
     }
   },
   "Lottózó": {
@@ -2751,9 +2657,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/LottozoLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/LottozoLocation.png" }]
     }
   },
   "Mayo Chix": {
@@ -2800,9 +2704,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/MayoChixLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/MayoChixLocation.png" }]
     }
   },
   "Media Markt": {
@@ -2849,9 +2751,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/MediaMarktLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/MediaMarktLocation.png" }]
     }
   },
   "Mister Minit": {
@@ -2898,9 +2798,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/MisterMinitLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/MisterMinitLocation.png" }]
     }
   },
   "MK Leder Bőrdíszmű": {
@@ -2947,9 +2845,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/MKLederBordiszmuLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/MKLederBordiszmuLocation.png" }]
     }
   },
   "Müller": {
@@ -2996,9 +2892,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/MüllerLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/MüllerLocation.png" }]
     }
   },
   "Muyoso": {
@@ -3045,9 +2939,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": "/Images/MuyosoLocation.png"
-      }
+      "locationImage": [{ "src": "/Images/MuyosoLocation.png" }]
     }
   },
   "Nail Express": {
@@ -3094,9 +2986,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "/Images/NailExpressLocation.png" }]
     }
   },
   "New Yorker": {
@@ -3143,9 +3033,10 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [
+        { "src": "/Images/NewYorkerLocation1.png" },
+        { "src": "/Images/NewYorkerLocation2.png" }
+      ]
     }
   },
   "Office Shoes": {
@@ -3192,9 +3083,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "/Images/OfficeShoesLocation.png" }]
     }
   },
   "Ofotért": {
@@ -3241,9 +3130,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "/Images/OfotertLocation.png" }]
     }
   },
   "Optic World Exclusive": {
@@ -3290,9 +3177,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Origo Sport": {
@@ -3339,9 +3224,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "OTP Bank": {
@@ -3388,9 +3271,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Pandora Hivatalos Viszonteladó": {
@@ -3437,9 +3318,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Parfois": {
@@ -3486,9 +3365,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Party Point": {
@@ -3535,9 +3412,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "PEPCO": {
@@ -3584,9 +3459,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Pepe Jeans": {
@@ -3633,9 +3506,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Pirex Papír": {
@@ -3682,9 +3553,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Playersroom": {
@@ -3731,9 +3600,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Pólóüzem": {
@@ -3780,9 +3647,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Posta": {
@@ -3829,9 +3694,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Pull & Bear": {
@@ -3878,9 +3741,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Reserved": {
@@ -3927,9 +3788,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Retro Jeans": {
@@ -3976,9 +3835,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Rossmann": {
@@ -4025,9 +3882,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Samsung Experience Store": {
@@ -4074,9 +3929,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Saxoo London": {
@@ -4123,9 +3976,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Scitec Nutrition": {
@@ -4172,9 +4023,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "SiNSAY": {
@@ -4221,9 +4070,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Sizeer": {
@@ -4270,9 +4117,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "skechers": {
@@ -4319,9 +4164,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "SPAR": {
@@ -4368,9 +4211,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Springfield": {
@@ -4417,9 +4258,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Stradivarius": {
@@ -4466,9 +4305,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Takko Fashion": {
@@ -4515,9 +4352,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Tamaris": {
@@ -4564,9 +4399,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Tefal": {
@@ -4613,9 +4446,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Telekom": {
@@ -4662,9 +4493,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Tezenis": {
@@ -4711,9 +4540,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Thaiföld Kincse Masszázs Szalon": {
@@ -4760,9 +4587,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "tokstop": {
@@ -4809,9 +4634,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Tom Tailor": {
@@ -4858,9 +4681,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Triumph": {
@@ -4907,9 +4728,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Vision Express": {
@@ -4956,9 +4775,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Vodafone": {
@@ -5005,9 +4822,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "W.KRUK": {
@@ -5054,9 +4869,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Women'Secret": {
@@ -5103,9 +4916,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Wrangler Mustang": {
@@ -5152,9 +4963,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Yettel": {
@@ -5201,9 +5010,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Yves Rocher": {
@@ -5250,9 +5057,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Zara": {
@@ -5299,9 +5104,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   },
   "Zeniche Parfüméria": {
@@ -5348,9 +5151,7 @@
           "alt": ""
         }
       ],
-      "locationImage": {
-        "src": ""
-      }
+      "locationImage": [{ "src": "" }]
     }
   }
 }

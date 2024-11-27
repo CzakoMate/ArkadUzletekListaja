@@ -98,20 +98,20 @@
           <% } %> <% } %>
         </div>
       </div>
-      <% } %> <% if (data.locationImage!="" && data.locationImage.src!="" &&
-      data.locationImage.alt!="") { %>
+      <% } %> <% if (data.locationImage.length>0 ) { %>
       <hr />
-      <% const alt=pageTitle+data.locationImage.alt %>
-      <div>
-        <div class="locationImgDiv">
+      <div class="container">
+        <div class="locationImgDiv row">
+          <% const col="col-6" %> <% for(let i=0;i <
+          data.locationImage.length;i++){ %>
           <img
-            src="<%= data.locationImage.src %>"
+            src="<%= data.locationImage[i].src %>"
             alt="<%=pageTitle %> helye az Árkádban"
-            class="locationImg"
-          />
+            class="locationImg <%= data.locationImage.length > 1 ? 'col-6' : '' %>"
+          /><% } %>
         </div>
-        <% } %>
       </div>
+      <% } %>
       <a href="/"> ❮❮❮ VISSZA A FŐOLDALRA</a>
       <div class="footer">
         <a href="https://www.arkadszeged.hu/uezletek/" target="_blank"
