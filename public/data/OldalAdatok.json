@@ -2360,7 +2360,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/IWashLocation.png"
       }
     }
   },
@@ -2409,7 +2409,203 @@
         }
       ],
       "locationImage": {
+        "src": "/Images/Jack&JonesLocation.png"
+      }
+    }
+  },
+  "Kölyökpark": {
+    "pageTitle": "Kölyökpark",
+    "data": {
+      "Image": {
         "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "/Images/KolyokParkLocation.png"
+      }
+    }
+  },
+  "konzolvilág": {
+    "pageTitle": "konzolvilág",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "/Images/konzolvilagAtepitesalattLocations.png"
+      }
+    }
+  },
+  "L'Blanche": {
+    "pageTitle": "L'Blanche",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "/Images/L'BlancheLocation.png"
+      }
+    }
+  },
+  "L'Occitane": {
+    "pageTitle": "L'Occitane",
+    "data": {
+      "Image": {
+        "src": ""
+      },
+      "Introduction": [],
+      "openHours": {
+        "s1o1": "",
+        "s1o2": "",
+        "s2o1": "",
+        "s2o2": "",
+        "s3o1": "",
+        "s3o2": ""
+      },
+      "sideDiv": {
+        "telNum": "",
+        "email": "",
+        "webpage": ""
+      },
+      "Lists": [
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        },
+        {
+          "listName": "",
+          "listItems": []
+        }
+      ],
+      "indoorImages": [
+        {
+          "src": "",
+          "alt": ""
+        }
+      ],
+      "locationImage": {
+        "src": "/Images/L'OccitaneLocation.png"
       }
     }
   },
@@ -2458,7 +2654,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/LibriLocation.png"
       }
     }
   },
@@ -2507,7 +2703,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/LiliputJatekVilagLocation.png"
       }
     }
   },
@@ -2556,7 +2752,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/LottozoLocation.png"
       }
     }
   },
@@ -2605,7 +2801,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/MayoChixLocation.png"
       }
     }
   },
@@ -2654,7 +2850,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/MediaMarktLocation.png"
       }
     }
   },
@@ -2703,7 +2899,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/MisterMinitLocation.png"
       }
     }
   },
@@ -2752,7 +2948,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/MKLederBordiszmuLocation.png"
       }
     }
   },
@@ -2801,7 +2997,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/MüllerLocation.png"
       }
     }
   },
@@ -2850,7 +3046,7 @@
         }
       ],
       "locationImage": {
-        "src": ""
+        "src": "/Images/MuyosoLocation.png"
       }
     }
   },
