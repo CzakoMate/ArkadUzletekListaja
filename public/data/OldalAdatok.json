@@ -4116,7 +4116,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/SizeerLocation.png" }]
     }
   },
   "skechers": {
@@ -4163,7 +4163,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/SkechersLocation.png" }]
     }
   },
   "SPAR": {
@@ -4210,7 +4210,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/SparLocation.png" }]
     }
   },
   "Springfield": {
@@ -4257,7 +4257,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/SpringFieldLocation.png" }]
     }
   },
   "Stradivarius": {
@@ -4304,7 +4304,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/StradivariusLocation.png" }]
     }
   },
   "Takko Fashion": {
@@ -4351,7 +4351,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/TakkoFashionLocation.png" }]
     }
   },
   "Tamaris": {
@@ -4398,7 +4398,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/TamarisLocation.png" }]
     }
   },
   "Tefal": {
@@ -4445,7 +4445,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/TefalLocation.png" }]
     }
   },
   "Telekom": {
@@ -4492,7 +4492,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/TelekomLocation.png" }]
     }
   },
   "Tezenis": {
@@ -4539,7 +4539,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/TezenisLocation.png" }]
     }
   },
   "Thaiföld Kincse Masszázs Szalon": {
@@ -4586,7 +4586,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/ThaiMasszasLocation.png" }]
     }
   },
   "tokstop": {
@@ -4633,7 +4633,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/TokStopLocation.png" }]
     }
   },
   "Tom Tailor": {
@@ -4680,7 +4680,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/TomTailorLocation.png" }]
     }
   },
   "Triumph": {
@@ -4727,7 +4727,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/TriumphLocation.png" }]
     }
   },
   "Vision Express": {
