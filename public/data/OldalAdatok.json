@@ -4774,7 +4774,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/VisionExpressLocation.png" }]
     }
   },
   "Vodafone": {
@@ -4821,7 +4821,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/VodafoneLocation.png" }]
     }
   },
   "W.KRUK": {
@@ -4868,7 +4868,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/WkrukLocation.png" }]
     }
   },
   "Women'Secret": {
@@ -4915,7 +4915,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/Women'SecretLocation.png" }]
     }
   },
   "Wrangler Mustang": {
@@ -4962,7 +4962,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/WranglerMustangLocation.png" }]
     }
   },
   "Yettel": {
@@ -5009,7 +5009,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/YettelLocation.png" }]
     }
   },
   "Yves Rocher": {
@@ -5056,7 +5056,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/YvesRocherLocation.png" }]
     }
   },
   "Zara": {
@@ -5103,7 +5103,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/ZaraLocation.png" }]
     }
   },
   "Zeniche Parfüméria": {
@@ -5150,7 +5150,7 @@
           "alt": ""
         }
       ],
-      "locationImage": [{ "src": "" }]
+      "locationImage": [{ "src": "/Images/ZenicheParfumeriaLocation.png" }]
     }
   }
 }
