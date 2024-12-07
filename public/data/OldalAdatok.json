@@ -223,44 +223,68 @@
     "pageTitle": "Balance",
     "data": {
       "Image": {
-        "src": ""
+        "src": "https://www.arkadszeged.hu/fileadmin/user_upload/CENTERS/ASZ/shops/Logos/A-D/balance.jpg"
       },
-      "Introduction": [],
+      "Introduction": [
+        "Üzletünkben korosztálytól függetlenül mindenki megtalálhatja a hozzá legjobban illő fazont, a sportostól az elegánsig. Nagy választékban tartunk ingeket és öltönyöket több fajta méretállásban."
+      ],
       "openHours": {
-        "s1o1": "",
-        "s1o2": "",
-        "s2o1": "",
-        "s2o2": "",
+        "s1o1": "Hé. - Szo.",
+        "s1o2": "09:00 - 20:00",
+        "s2o1": "Va.",
+        "s2o2": "10:00 - 18:00",
         "s3o1": "",
         "s3o2": ""
       },
       "sideDiv": {
-        "telNum": "",
-        "email": "",
-        "webpage": ""
+        "telNum": "+36 20 388 3139",
+        "email": "balance.szeged@gmail.com",
+        "webpage": "https://www.balancewebshop.com/"
       },
       "Lists": [
         {
-          "listName": "",
-          "listItems": []
+          "listName": "TERMÉKEK",
+          "listItems": [
+            "ing",
+            "öltöny",
+            "nyakkendő",
+            "öv",
+            "zokni",
+            "sportzakó",
+            "esküvői öltöny",
+            "esküvői mellény",
+            "dzseki",
+            "kabát",
+            "póló",
+            "pulóver",
+            "farmernadrág",
+            "táska",
+            "pénztárca"
+          ]
         },
         {
-          "listName": "",
-          "listItems": []
+          "listName": "FORGALMAZOTT MÁRKÁK",
+          "listItems": ["Balance", "Blend", "Matties"]
         },
         {
-          "listName": "",
-          "listItems": []
-        },
-        {
-          "listName": "",
-          "listItems": []
+          "listName": "ELFOGADOTT FIZETŐESZKÖZÖK",
+          "listItems": [
+            "Készpénz (Forint)",
+            "Készpénz (Euro)",
+            "Bankkártya",
+            "Saját utalvány/ajándékkártya",
+            "ÁRKÁD Szeged vásárlási utalvány"
+          ]
         }
       ],
       "indoorImages": [
         {
-          "src": "",
-          "alt": ""
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/e/f/csm_Balance_1_10865dbf6d.jpg",
+          "alt": " beltere"
+        },
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/f/0/csm_Balance_2_12cefe7a85.jpg",
+          "alt": " bejárata"
         }
       ],
       "locationImage": [{ "src": "/Images/BalanceLocation.png" }]
@@ -270,46 +294,24 @@
     "pageTitle": "Barber Shop Budapest",
     "data": {
       "Image": {
-        "src": ""
+        "src": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/barbershopbudapest.png"
       },
       "Introduction": [],
       "openHours": {
-        "s1o1": "",
-        "s1o2": "",
-        "s2o1": "",
-        "s2o2": "",
+        "s1o1": "Hé. - Szo.",
+        "s1o2": "09:00 - 20:00",
+        "s2o1": "Va.",
+        "s2o2": "10:00 - 18:00",
         "s3o1": "",
         "s3o2": ""
       },
       "sideDiv": {
         "telNum": "",
         "email": "",
-        "webpage": ""
+        "webpage": "https://www.barbershopbudapest.hu/"
       },
-      "Lists": [
-        {
-          "listName": "",
-          "listItems": []
-        },
-        {
-          "listName": "",
-          "listItems": []
-        },
-        {
-          "listName": "",
-          "listItems": []
-        },
-        {
-          "listName": "",
-          "listItems": []
-        }
-      ],
-      "indoorImages": [
-        {
-          "src": "",
-          "alt": ""
-        }
-      ],
+      "Lists": [],
+      "indoorImages": [],
       "locationImage": [{ "src": "/Images/BarberShopBudapestLocation.png" }]
     }
   },
@@ -317,44 +319,75 @@
     "pageTitle": "Benu Gyógyszertár",
     "data": {
       "Image": {
-        "src": ""
+        "src": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/BENU.png"
       },
-      "Introduction": [],
+      "Introduction": [
+        "Széleskörű betegellátás, mindenki számára személyre szabott tanácsokkal. Vitaminok, táplálék kiegészítők, minőségi babaápolási és szépségápolási cikkek és diagnosztizált eszközök széles tárháza. A BENU Gyógyszertárak célja a betegek illetve egészségük megőrzését fontosnak tartók legmagasabb szakmai elvárásoknak megfelelő színvonalas kiszolgálása."
+      ],
       "openHours": {
-        "s1o1": "",
-        "s1o2": "",
-        "s2o1": "",
-        "s2o2": "",
-        "s3o1": "",
-        "s3o2": ""
+        "s1o1": "Hé. - Pé.",
+        "s1o2": "09:00 - 20:00",
+        "s2o1": "Szo.",
+        "s2o2": "09:00 - 19:00",
+        "s3o1": "Va.",
+        "s3o2": "10:00 - 18:00"
       },
       "sideDiv": {
-        "telNum": "",
-        "email": "",
-        "webpage": ""
+        "telNum": "+36 62 996 760",
+        "email": "arkadszeged@benugyogyszertar.hu",
+        "webpage": "https://benu.hu/"
       },
       "Lists": [
         {
-          "listName": "",
-          "listItems": []
+          "listName": "TERMÉKEK",
+          "listItems": [
+            "vényköteles gyógyszerek",
+            "vény nélküli gyógyszerek",
+            "babaápolási termékek",
+            "dekorkozmetikumok",
+            "diagnosztikai eszközök",
+            "szépségápolási cikkek",
+            "vitaminok",
+            "táplálék kiegészítők",
+            "saját márkás termékek",
+            "szépségápolás",
+            "szájápolás",
+            "állatgyógyászati készítmények"
+          ]
         },
         {
-          "listName": "",
-          "listItems": []
+          "listName": "FORGALMAZOTT MÁRKÁK",
+          "listItems": [
+            "Babé",
+            "Bioderma",
+            "Eucerin",
+            "La Roche-Posay",
+            "Nuxe",
+            "Uriage",
+            "Vichy"
+          ]
         },
         {
-          "listName": "",
-          "listItems": []
+          "listName": "SZOLGÁLTATÁSOK",
+          "listItems": ["Pick Up-pont"]
         },
         {
-          "listName": "",
-          "listItems": []
+          "listName": "ELFOGADOTT FIZETŐESZKÖZÖK",
+          "listItems": [
+            "Készpénz (Forint)",
+            "Bankkártya",
+            "Egészségpénztári kártya"
+          ]
         }
       ],
       "indoorImages": [
         {
-          "src": "",
-          "alt": ""
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/d/b/csm_Benu_1_b475fa5cb7.jpg",
+          "alt": " beltere"
+        },
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/c/7/csm_Benu_2_145114ec35.jpg",
+          "alt": " bejárata"
         }
       ],
       "locationImage": [{ "src": "/Images/BenuGyogyszertarLocation.png" }]
@@ -364,44 +397,64 @@
     "pageTitle": "Bershka",
     "data": {
       "Image": {
-        "src": ""
+        "src": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/bershka.png"
       },
-      "Introduction": [],
+      "Introduction": [
+        "A Bershka kollekcióit úgy tervezték, hogy találkozzon a következő generáció ízlésével a zene, a social media és az úttörő technologiák terén.",
+
+        "A Bershkát az Inditex alapította 1998-ban, amely a legújabb trendeket követve elégíti ki a fiatalok igényeit. A márkának három fő vonala van: Beshka, BSK, Man; amely széles skáláját kínálja az esti viseletnek, az alap és sport ruházatnak, farmereknek, kiegészítőknek és lábbeliknek a legújabb trendek szerint.",
+
+        "Ahogy belépünk az üzletbe magával ragadnak a fények, a modern dizájn és a legújabb zenék.",
+
+        "Keresd fel üzletünket az egyedi vásárlás élményéért!"
+      ],
       "openHours": {
-        "s1o1": "",
-        "s1o2": "",
-        "s2o1": "",
-        "s2o2": "",
+        "s1o1": "Hé. - Szo.",
+        "s1o2": "09:00 - 20:00",
+        "s2o1": "Va.",
+        "s2o2": "10:00 - 18:00",
         "s3o1": "",
         "s3o2": ""
       },
       "sideDiv": {
-        "telNum": "",
+        "telNum": "+36 62 996 736",
         "email": "",
-        "webpage": ""
+        "webpage": "https://www.bershka.com/"
       },
       "Lists": [
         {
-          "listName": "",
-          "listItems": []
+          "listName": "TERMÉKEK",
+          "listItems": [
+            "ruha",
+            "cipő",
+            "kiegészítő",
+            "táska",
+            "illatszer",
+            "kozmetikumok"
+          ]
         },
         {
-          "listName": "",
-          "listItems": []
+          "listName": "FORGALMAZOTT MÁRKÁK",
+          "listItems": ["Bershka"]
         },
         {
-          "listName": "",
-          "listItems": []
-        },
-        {
-          "listName": "",
-          "listItems": []
+          "listName": "ELFOGADOTT FIZETŐESZKÖZÖK",
+          "listItems": [
+            "Készpénz (Forint)",
+            "Bankkártya",
+            "Saját utalvány/ajándékkártya",
+            "ÁFA visszaigénylés (TAX FREE)"
+          ]
         }
       ],
       "indoorImages": [
         {
-          "src": "",
-          "alt": ""
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/f/a/csm_Bershka_1_f6fd35d57e.jpg",
+          "alt": " beltere"
+        },
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/1/3/csm_Bershka_2_ac84681d91.jpg",
+          "alt": " bejárata"
         }
       ],
       "locationImage": [{ "src": "/Images/BreshkaLocation.png" }]
@@ -411,44 +464,61 @@
     "pageTitle": "Bijou Brigitte",
     "data": {
       "Image": {
-        "src": ""
+        "src": "https://www.arkadszeged.hu/fileadmin/user_upload/GLOBAL/brand_stores/logos/bijoubrigitte.png"
       },
       "Introduction": [],
       "openHours": {
-        "s1o1": "",
-        "s1o2": "",
-        "s2o1": "",
-        "s2o2": "",
+        "s1o1": "Hé. - Szo.",
+        "s1o2": "09:00 - 20:00",
+        "s2o1": "Va.",
+        "s2o2": "10:00 - 18:00",
         "s3o1": "",
         "s3o2": ""
       },
       "sideDiv": {
-        "telNum": "",
+        "telNum": "+36 62 996 767",
         "email": "",
         "webpage": ""
       },
       "Lists": [
         {
-          "listName": "",
-          "listItems": []
+          "listName": "TERMÉKEK",
+          "listItems": [
+            "divatékszerek",
+            "órák",
+            "táskák",
+            "pénztárcák",
+            "sálak",
+            "hajékszerek",
+            "féldrágakövek"
+          ]
         },
         {
-          "listName": "",
-          "listItems": []
+          "listName": "FORGALMAZOTT MÁRKÁK",
+          "listItems": ["Bijou Brigitte", "Senso Di Donna", "925 Silver"]
         },
         {
-          "listName": "",
-          "listItems": []
+          "listName": "SZOLGÁLTATÁSOK",
+          "listItems": ["fülbelövés"]
         },
         {
-          "listName": "",
-          "listItems": []
+          "listName": "ELFOGADOTT FIZETŐESZKÖZÖK",
+          "listItems": [
+            "Készpénz (Forint)",
+            "Bankkártya",
+            "Saját utalvány/ajándékkártya",
+            "ÁRKÁD Szeged vásárlási utalvány"
+          ]
         }
       ],
       "indoorImages": [
         {
-          "src": "",
-          "alt": ""
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/7/c/csm_bijou_brigitte_7d7a3f1fea.jpg",
+          "alt": " bejárata"
+        },
+        {
+          "src": "https://www.arkadszeged.hu/fileadmin/_processed_/3/3/csm_bijou_brigitte2_3a11586b6d.jpg",
+          "alt": " beltere"
         }
       ],
       "locationImage": [{ "src": "/Images/BijouBrigitteLocation.png" }]
