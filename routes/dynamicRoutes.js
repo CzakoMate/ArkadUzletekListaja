@@ -3,7 +3,7 @@ import { dbQuery } from "../database.js";
 
 const generateDynamicRoutes = async (app) => {
     try {
-        const pages = await dbQuery("SELECT pageTitle FROM page;");
+        const pages = await dbQuery("SELECT pageTitle FROM pages;");
         const pageTitles = pages.map(page => page.pageTitle);
 
         pageTitles.forEach(title => {

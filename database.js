@@ -26,9 +26,6 @@ const initializeDB = async () => {
       "CREATE TABLE IF NOT EXISTS locationImages (id INTEGER PRIMARY KEY AUTOINCREMENT, pageId INTEGER, src TEXT, FOREIGN KEY (pageId) REFERENCES page(id));"
     );
     console.log("Tables created successfully.");
-    for (const jsonData of jsonObjects) {
-      await insertData(jsonData);
-    }
   } catch (err) {
     console.error("Failed to initialize database:", err);
   }

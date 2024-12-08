@@ -3,6 +3,10 @@ import express from "express";
 import bodyParser from "body-parser";
 import fs from "fs";
 import { fileURLToPath } from "url";
+import cors from "cors";
+import { initializeDB } from "./database.js";
+import swaggerUi from "swagger-ui-express";
+import { readFile } from "fs/promises";
 import imagesRouter from "./routes/images.js";
 import indoorImagesRouter from "./routes/indoorImages.js";
 import introductionRouter from "./routes/introductions.js";
@@ -10,8 +14,6 @@ import locationImagesRouter from "./routes/locationImages.js";
 import openHoursTablesRouter from "./routes/openHoursTables.js";
 import pagesRouter from "./routes/pages.js";
 import sideDivsRouter from "./routes/sideDivs.js";
-import swaggerUi from "swagger-ui-express";
-import swaggerDocument from "./swagger-output.json" assert { type: "json" };
 import dynamicRouter from "./routes/dynamicRoutes.js";
 import titlesRouter from "./routes/titles.js";
 const __filename = fileURLToPath(import.meta.url);
@@ -19,6 +21,13 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = 3000;
+
+const swaggerDocument = (path) =>
+  JSON.parse(fs.readFileSync(new URL(path, import.meta.url)));
+
+// Import the swagger-output.json file
+const swaggerPath = "./swagger-output.json";
+const swaggerData = swaggerDocument(swaggerPath);
 
 app.use(cors());
 app.use(express.json());
@@ -78,7 +87,7 @@ for (let shop in OldalAdatokData) {
   shops.push(OldalAdatokData[shop].pageTitle);
 }*/
 app.use("/", titlesRouter);
-app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocument));
+app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerData));
 app.use((req, res, next) => {
   res.status(404).render("404", {
     pageTitle: "404-es hiba - Az oldal nem található",
@@ -87,7 +96,7 @@ app.use((req, res, next) => {
 });
 const startServer = async () => {
   await initializeDB();
-  await generateDynamicRoutes(app);
+  await dynamicRouter(app);
   app.listen(PORT, () =>
     console.log(`Server listens on http://localhost:${PORT}`)
   );
