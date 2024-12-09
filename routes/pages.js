@@ -26,7 +26,7 @@ router.get("/:id", async (req, res, next) => {
 
 router.post("/", async (req, res, next) => {
   try {
-    const result = await dbRun("INSERT INTO pages (pageTitle (?);", [
+    const result = await dbRun("INSERT INTO pages (pageTitle) VALUES (?);", [
       req.body.pageTitle,
     ]);
     res.status(201).json({ id: result.lastID, ...req.body });

@@ -7,7 +7,7 @@ const doc = {
     description: "API for managing ArkadUzletek pages data",
   },
   host: "localhost:3000",
-  basePath: "/api",
+  basePath: "/api/images",
 };
 
 const outputFile = "./swagger-output.json";
