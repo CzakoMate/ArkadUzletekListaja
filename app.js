@@ -29,15 +29,21 @@ const swaggerDocument = (path) =>
 const swaggerPath = "./swagger-output.json";
 const swaggerData = swaggerDocument(swaggerPath);
 
-app.use(cors());
-app.use(express.json());
-
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, "public")));
 
+app.use(cors());
+app.use(express.json());
+app.use("/api/images", imagesRouter);
+app.use("/api/indoorImages", indoorImagesRouter);
+app.use("/api/introductions", introductionRouter);
+app.use("/api/locationImages", locationImagesRouter);
+app.use("/api/openHoursTables", openHoursTablesRouter);
+app.use("/api/pages", pagesRouter);
+app.use("/api/sideDivs", sideDivsRouter);
 /*const OldalAdatokData = JSON.parse(
   fs.readFileSync(
     path.join(__dirname, "./public/data", "OldalAdatok.json"),
